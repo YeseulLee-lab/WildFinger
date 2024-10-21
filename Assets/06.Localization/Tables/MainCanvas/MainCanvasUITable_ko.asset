@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: MainCanvasUITable_ko
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: ko
+  m_SharedData: {fileID: 11400000, guid: 7de5d6d0a7753f54e9b4ec4c3fb1321e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 6663696384
+    m_Localized: "\uC644\uB8CC \uC2DC \uD574\uC81C"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10132889344667648
+    m_Localized: "\uACF5\uAC04"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10132998031667200
+    m_Localized: "\uC218\uC9D1"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10133168597233664
+    m_Localized: "\uD50C\uB808\uC774"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10133258908987392
+    m_Localized: "\uBD80\uC2A4\uD130\uB97C \uC120\uD0DD\uD558\uC138\uC694"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10133279637237760
+    m_Localized: "\uB808\uBCA8"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 10135430686044160
+    m_Localized: "\uAC00\uB4DD \uCC38"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

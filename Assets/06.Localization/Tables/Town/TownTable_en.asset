@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: TownTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 3806350864aa7ff4d8656f67187c30c7, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 33192669184
+    m_Localized: WonderLand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90658828288
+    m_Localized: Norde Land
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171789250560
+    m_Localized: EDM Land
+    m_Metadata:
+      m_Items: []
+  - m_Id: 516221300736
+    m_Localized: Disco Land
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652330659840
+    m_Localized: Magic Castle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 780714110976
+    m_Localized: Fountain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 843595116544
+    m_Localized: FerrisWheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031999057920
+    m_Localized: Drum House
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1694518734848
+    m_Localized: Guitar House
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773359067136
+    m_Localized: Xylophone Bridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1889688088576
+    m_Localized: Do Magic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186649006080
+    m_Localized: Viking Tower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2296183255040
+    m_Localized: Training Room
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2314281676800
+    m_Localized: Viking Dorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2326042505216
+    m_Localized: Viking Dock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2337115467776
+    m_Localized: Viking Ship
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2362843328512
+    m_Localized: Viking Bar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2373014515712
+    m_Localized: Viking House
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

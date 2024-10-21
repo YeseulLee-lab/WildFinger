@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: StringTable_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: e8243e243c0410647828cc037a19c2cf, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 2325585326080
+    m_Localized: Are you okay?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2537477369856
+    m_Localized: This is a happy music planet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 11891408629760
+    m_Localized: I'm Dr. Music Woongmeong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 996886688296960
+    m_Localized: ???
+    m_Metadata:
+      m_Items: []
+  - m_Id: 996957051940864
+    m_Localized: Dr. Music Woongmeong
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986482461372416
+    m_Localized: Are you the Rock, Paper, Scissors warrior who came to save our Happy
+      Music Planet?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986779095134208
+    m_Localized: We've been waiting for you
+    m_Metadata:
+      m_Items: []
+  - m_Id: 986848305344512
+    m_Localized: Can you defeat the evil hordes that have invaded our planet and
+      taken away our music?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 988680779984896
+    m_Localized: We can reclaim our devastated planet with the rock-paper-scissors
+      rhythm game.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 988925601509376
+    m_Localized: Let's start from level 1!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1063454713573376
+    m_Localized: Hit the play button!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1063572237971456
+    m_Localized: What are you doing now?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1063636154970112
+    m_Localized: Attack the monsters!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1063748084166656
+    m_Localized: ...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1063785514135552
+    m_Localized: Oops! I didn't give you a weapon
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396415514275840
+    m_Localized: The quavers from the game can be used to collect the collection
+      elements of each village.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396434405421056
+    m_Localized: Click on the collection page.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396452621283328
+    m_Localized: Press the play button to continue playing.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1396465170640896
+    m_Localized: The more you play, the more music you can get back to each village.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1400354330636288
+    m_Localized: Oh, yeah, you're the new rock-paper-scissors rhythm game champion?
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1400581926154240
+    m_Localized: I'm a retired rock, paper, scissors rhythm game champion, Grand.rps.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1482548327739392
+    m_Localized: The hearts are filling up...
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

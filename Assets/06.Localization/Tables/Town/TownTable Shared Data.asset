@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: TownTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: TownTable
+  m_TableCollectionNameGuidString: 3806350864aa7ff4d8656f67187c30c7
+  m_Entries:
+  - m_Id: 33192669184
+    m_Key: WonderLand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 652330659840
+    m_Key: MagicCastle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 780714110976
+    m_Key: Fountain
+    m_Metadata:
+      m_Items: []
+  - m_Id: 843595116544
+    m_Key: FerrisWheel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1031999057920
+    m_Key: DrumHouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1694518734848
+    m_Key: GuitarHouse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1773359067136
+    m_Key: XylophoneBridge
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1889688088576
+    m_Key: DoMagic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 90658828288
+    m_Key: NordeLand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171789250560
+    m_Key: EDMLand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 516221300736
+    m_Key: DiscoLand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2186649006080
+    m_Key: VikingTower
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2296183255040
+    m_Key: VikingTR
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2314281676800
+    m_Key: VikingDorm
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2326042505216
+    m_Key: VikingDock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2337115467776
+    m_Key: VikingShip
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2362843328512
+    m_Key: VikingBar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2373014515712
+    m_Key: VikingHouse
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 6160248521754411230
+  references:
+    version: 2
+    RefIds:
+    - rid: 6160248521754411230
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables,
+        asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1713511752816
