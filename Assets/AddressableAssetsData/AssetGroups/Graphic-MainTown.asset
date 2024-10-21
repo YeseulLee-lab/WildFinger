@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Graphic-MainTown
+  m_EditorClassIdentifier: 
+  m_GroupName: Graphic-MainTown
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 61196c843d9e0214688e9cebe9952bb7
+  m_SerializeEntries:
+  - m_GUID: 32602dcc07776f34281bd09d04497fd5
+    m_Address: Assets/05.ServerData/GameData/Town/8
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  - m_GUID: 0cbdc3d16b1bda94eabc5e923007a19e
+    m_Address: Assets/05.ServerData/GameData/Town/7
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  - m_GUID: 30c2bf8260f004f49ae70b58db3bb5ea
+    m_Address: Assets/05.ServerData/GameData/Town/6
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  - m_GUID: 9c3842698ae8bc6408bcb0eddcbe6bed
+    m_Address: Assets/05.ServerData/GameData/Town/5
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  - m_GUID: 439dd05a03e6b0a46b0d3cd918114078
+    m_Address: Assets/05.ServerData/GameData/Town/4
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  - m_GUID: eba28a610596f0d45afa916213a3717c
+    m_Address: Assets/05.ServerData/GameData/Town/3
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  - m_GUID: 502f476118d6bc4448ed421a0eab209f
+    m_Address: Assets/05.ServerData/GameData/Town/2
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  - m_GUID: 61eeffe3962e9854aa3137ea05c89dad
+    m_Address: Assets/05.ServerData/GameData/Town/1
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - TownData
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 5fbafb637e3422e45b985a5a9ce64513, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 96f6ee2d8a068404f82c61fc94d549d7, type: 2}
+    - {fileID: 11400000, guid: c44ae495a7fc89a47b340c579404db88, type: 2}
