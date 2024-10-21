@@ -1,0 +1,1012 @@
+{
+  "barCnt": 19,
+  "noteCnt": 56,
+  "situationCnt": 1,
+  "beatCnt": 4,
+  "noteDatas": [
+    {
+      "noteType": 3,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        0,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 0,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 1,
+      "tempo": 90.0,
+      "position": 31,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        1,
+        0
+      ],
+      "logicTypes": [
+        0,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 2698,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 2,
+      "tempo": 90.0,
+      "position": 2698,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 0,
+      "noteActionType": 2,
+      "rspTypes": [
+        1,
+        0
+      ],
+      "logicTypes": [
+        0,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 5365,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 3,
+      "tempo": 90.0,
+      "position": 5365,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 0,
+      "noteActionType": 1,
+      "rspTypes": [
+        2,
+        0
+      ],
+      "logicTypes": [
+        1,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        2,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 8031,
+      "gimmickParameters": [
+        2,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 4,
+      "tempo": 90.0,
+      "position": 8031,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 0,
+      "noteActionType": 1,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        1,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 10698,
+      "gimmickParameters": [
+        3,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 5,
+      "tempo": 90.0,
+      "position": 10698,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 1,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        0,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 13365,
+      "gimmickParameters": [
+        8,
+        20
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 6,
+      "tempo": 90.0,
+      "position": 13365,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 7,
+      "tempo": 90.0,
+      "position": 16031,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 8,
+      "tempo": 90.0,
+      "position": 18698,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 1,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        0,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 21365,
+      "gimmickParameters": [
+        4,
+        10
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 9,
+      "tempo": 90.0,
+      "position": 21365,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 2,
+      "noteActionType": 0,
+      "rspTypes": [
+        2,
+        2
+      ],
+      "logicTypes": [
+        1,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        2,
+        2
+      ],
+      "noteDuplicateCnt": 2,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 24031,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 10,
+      "tempo": 90.0,
+      "position": 24031,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 2,
+      "noteActionType": 2,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        1,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 26698,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 11,
+      "tempo": 90.0,
+      "position": 26698,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 2,
+      "noteActionType": 1,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        1,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 29365,
+      "gimmickParameters": [
+        3,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 12,
+      "tempo": 90.0,
+      "position": 29365,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 3,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        2
+      ],
+      "logicTypes": [
+        1,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        2
+      ],
+      "noteDuplicateCnt": 2,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 32031,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 13,
+      "tempo": 90.0,
+      "position": 32031,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 3,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        1,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 34698,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 14,
+      "tempo": 90.0,
+      "position": 34698,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 4,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        1,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 37365,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 15,
+      "tempo": 90.0,
+      "position": 37365,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 4,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        2
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        1,
+        0
+      ],
+      "noteDuplicateCnt": 2,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 38698,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 16,
+      "tempo": 90.0,
+      "position": 40031,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 5,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        1,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 40698,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 5,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        1
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        1,
+        2
+      ],
+      "noteDuplicateCnt": 2,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 42031,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 17,
+      "tempo": 90.0,
+      "position": 42698,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 6,
+      "noteActionType": 0,
+      "rspTypes": [
+        2,
+        0
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 44031,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 6,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        1,
+        1
+      ],
+      "noteDuplicateCnt": 2,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 45365,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 18,
+      "tempo": 90.0,
+      "position": 45365,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 0,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        1,
+        0
+      ],
+      "logicTypes": [
+        2,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        2,
+        0
+      ],
+      "noteDuplicateCnt": 1,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 48031,
+      "gimmickParameters": [
+        0,
+        0
+      ]
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 19,
+      "tempo": 90.0,
+      "position": 48031,
+      "gimmickParameters": null
+    }
+  ]
+}

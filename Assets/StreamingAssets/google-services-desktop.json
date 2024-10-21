@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "816372156251",
+    "firebase_url": "https://projectrsp-2ad9c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "projectrsp-2ad9c",
+    "storage_bucket": "projectrsp-2ad9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816372156251:android:50f8d5aa82bc836497fc7e",
+        "android_client_info": {
+          "package_name": "com.tmaxmtai.prsp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "816372156251-ru54t6j153sm70779ne3t2mtb1bv07h1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEvb97c8r46SykxFb-RS8G1maFnoxfDY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "816372156251-ru54t6j153sm70779ne3t2mtb1bv07h1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "816372156251-nmhveg7120sq7s0ltisbjvct6ngsi1gt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tmaxma.projectrsp"
+              }
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-8607250051286096~8598613465"
+    }
+  ],
+  "configuration_version": "1"
+}

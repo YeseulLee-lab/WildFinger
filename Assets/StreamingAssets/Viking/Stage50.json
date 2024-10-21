@@ -1,0 +1,86 @@
+{
+  "barCnt": 1,
+  "noteCnt": 0,
+  "situationCnt": 0,
+  "beatCnt": 4,
+  "totalBeatMarkerCnt": 4,
+  "noteDatas": [
+    {
+      "noteType": 2,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        0,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 51160,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 6,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        0,
+        0
+      ],
+      "logicTypes": [
+        0,
+        0
+      ],
+      "inputTypes": [
+        0,
+        0
+      ],
+      "tutorialType": -1,
+      "inputIndexes": [
+        0,
+        0
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 0,
+      "tempo": 0.0,
+      "position": 0,
+      "gimmickParameters": null
+    },
+    {
+      "noteType": 1,
+      "noteGimmickType": 0,
+      "noteActionType": 0,
+      "rspTypes": [
+        -1
+      ],
+      "logicTypes": [
+        -1
+      ],
+      "inputTypes": [
+        -1
+      ],
+      "tutorialType": 0,
+      "inputIndexes": [
+        -1
+      ],
+      "noteDuplicateCnt": 0,
+      "barIndex": 1,
+      "tempo": 67.0,
+      "position": 0,
+      "gimmickParameters": null
+    }
+  ]
+}

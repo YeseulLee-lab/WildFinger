@@ -1,0 +1,7 @@
+tutorial_name,name_id,sentence_id,tutorial_type
+UseQuaver,n_0_1,s_uq_0,UnmaskPop
+ShowPlayButton,n_0_1,s_spb_0,UnmaskPop
+GetAsset,n_0_1,s_ga_0,Pop
+RhythmGameTut,n_0_1,s_rpt_0,Conversation
+RhythmGameTut,n_0_1,s_rpt_1,Conversation
+RhythmGameTut,n_0_1,s_rpt_2,ConversationImage
