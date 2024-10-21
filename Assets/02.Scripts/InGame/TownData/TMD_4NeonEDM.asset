@@ -1,0 +1,856 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac6fc07d5821bf45a0638a9476a2e88, type: 3}
+  m_Name: TMD_4NeonEDM
+  m_EditorClassIdentifier: 
+  _town: 3
+  _musicDatas:
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 141
+    music:
+      Guid:
+        Data1: 1973292252
+        Data2: 1126802665
+        Data3: -395445329
+        Data4: 1000802684
+      Path: event:/BGM/4.EDM/4_S1
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 142
+    music:
+      Guid:
+        Data1: 1293598531
+        Data2: 1130438564
+        Data3: -926777937
+        Data4: -1677669994
+      Path: event:/BGM/4.EDM/4_S2
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 143
+    music:
+      Guid:
+        Data1: -375940074
+        Data2: 1176268227
+        Data3: 461820070
+        Data4: -946689118
+      Path: event:/BGM/4.EDM/4_S3
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 144
+    music:
+      Guid:
+        Data1: 977569279
+        Data2: 1321890615
+        Data3: -2102792261
+        Data4: -441820792
+      Path: event:/BGM/4.EDM/4_S4
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 145
+    music:
+      Guid:
+        Data1: 1421893038
+        Data2: 1149160639
+        Data3: -1381755775
+        Data4: 948975515
+      Path: event:/BGM/4.EDM/4_S5
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 146
+    music:
+      Guid:
+        Data1: -1788152342
+        Data2: 1254470412
+        Data3: 1468017563
+        Data4: 2137897796
+      Path: event:/BGM/4.EDM/4_S6
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 147
+    music:
+      Guid:
+        Data1: 2121084722
+        Data2: 1143166629
+        Data3: -202828110
+        Data4: -1817711458
+      Path: event:/BGM/4.EDM/4_S7
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 148
+    music:
+      Guid:
+        Data1: 1519979978
+        Data2: 1311739830
+        Data3: 664589709
+        Data4: 1822661690
+      Path: event:/BGM/4.EDM/4_S8
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 149
+    music:
+      Guid:
+        Data1: 1772532257
+        Data2: 1144925558
+        Data3: 1820935344
+        Data4: 328642604
+      Path: event:/BGM/4.EDM/4_S9
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 150
+    music:
+      Guid:
+        Data1: 1860765268
+        Data2: 1178969410
+        Data3: 1866398119
+        Data4: 1570857313
+      Path: event:/BGM/4.EDM/4_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 151
+    music:
+      Guid:
+        Data1: 2011050637
+        Data2: 1246368707
+        Data3: 529417362
+        Data4: 1764417198
+      Path: event:/BGM/4.EDM/4_S11
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 152
+    music:
+      Guid:
+        Data1: -646474207
+        Data2: 1323930001
+        Data3: 1739928714
+        Data4: -584464205
+      Path: event:/BGM/4.EDM/4_S12
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 153
+    music:
+      Guid:
+        Data1: -1113498104
+        Data2: 1331543046
+        Data3: 776518286
+        Data4: -660857738
+      Path: event:/BGM/4.EDM/4_S13
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 154
+    music:
+      Guid:
+        Data1: 1546805666
+        Data2: 1159104141
+        Data3: -1135257923
+        Data4: 1219418746
+      Path: event:/BGM/4.EDM/4_S14
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 155
+    music:
+      Guid:
+        Data1: -1626909135
+        Data2: 1270214895
+        Data3: -1836036214
+        Data4: 1087665704
+      Path: event:/BGM/4.EDM/4_S15
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 156
+    music:
+      Guid:
+        Data1: 381570250
+        Data2: 1128301990
+        Data3: 734986145
+        Data4: 978019934
+      Path: event:/BGM/4.EDM/4_S16
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 157
+    music:
+      Guid:
+        Data1: -1661274540
+        Data2: 1331446601
+        Data3: -1325534308
+        Data4: -16830282
+      Path: event:/BGM/4.EDM/4_S17
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 158
+    music:
+      Guid:
+        Data1: 1456914243
+        Data2: 1168974649
+        Data3: -590885752
+        Data4: 472581119
+      Path: event:/BGM/4.EDM/4_S18
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 159
+    music:
+      Guid:
+        Data1: 734311271
+        Data2: 1084383255
+        Data3: 165574305
+        Data4: 1583910120
+      Path: event:/BGM/4.EDM/4_S19
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 160
+    music:
+      Guid:
+        Data1: 1860765268
+        Data2: 1178969410
+        Data3: 1866398119
+        Data4: 1570857313
+      Path: event:/BGM/4.EDM/4_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 161
+    music:
+      Guid:
+        Data1: 977543601
+        Data2: 1120526805
+        Data3: -771606898
+        Data4: 805851710
+      Path: event:/BGM/4.EDM/4_S21
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 162
+    music:
+      Guid:
+        Data1: 118586737
+        Data2: 1234022087
+        Data3: -2146069074
+        Data4: -1460644384
+      Path: event:/BGM/4.EDM/4_S22
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 163
+    music:
+      Guid:
+        Data1: 1093774983
+        Data2: 1190184506
+        Data3: 228760212
+        Data4: -1997289775
+      Path: event:/BGM/4.EDM/4_S23
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 164
+    music:
+      Guid:
+        Data1: 2063966531
+        Data2: 1161976325
+        Data3: 581230257
+        Data4: 1672850652
+      Path: event:/BGM/4.EDM/4_S24
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 165
+    music:
+      Guid:
+        Data1: 1490657620
+        Data2: 1285608139
+        Data3: -1557351531
+        Data4: -825663290
+      Path: event:/BGM/4.EDM/4_S25
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 166
+    music:
+      Guid:
+        Data1: 210912306
+        Data2: 1248793871
+        Data3: 1256555183
+        Data4: 527371519
+      Path: event:/BGM/4.EDM/4_S26
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 167
+    music:
+      Guid:
+        Data1: 458984581
+        Data2: 1329969254
+        Data3: 1217270948
+        Data4: 1934592335
+      Path: event:/BGM/4.EDM/4_S27
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 168
+    music:
+      Guid:
+        Data1: -2003338505
+        Data2: 1340853523
+        Data3: 1142724268
+        Data4: 1751964490
+      Path: event:/BGM/4.EDM/4_S28
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 169
+    music:
+      Guid:
+        Data1: -362919582
+        Data2: 1154002693
+        Data3: 626494888
+        Data4: 1455327536
+      Path: event:/BGM/4.EDM/4_S29
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 170
+    music:
+      Guid:
+        Data1: 1860765268
+        Data2: 1178969410
+        Data3: 1866398119
+        Data4: 1570857313
+      Path: event:/BGM/4.EDM/4_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 171
+    music:
+      Guid:
+        Data1: 2090935809
+        Data2: 1336386293
+        Data3: 1278085279
+        Data4: 44912557
+      Path: event:/BGM/4.EDM/4_S31
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 172
+    music:
+      Guid:
+        Data1: 1794157859
+        Data2: 1203316685
+        Data3: 1602873497
+        Data4: 57512818
+      Path: event:/BGM/4.EDM/4_S32
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 173
+    music:
+      Guid:
+        Data1: -2086094523
+        Data2: 1214709732
+        Data3: -1027497580
+        Data4: -673138447
+      Path: event:/BGM/4.EDM/4_S33
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 174
+    music:
+      Guid:
+        Data1: -1647205705
+        Data2: 1108219531
+        Data3: 1452696728
+        Data4: 705961812
+      Path: event:/BGM/4.EDM/4_S34
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 175
+    music:
+      Guid:
+        Data1: -1547820213
+        Data2: 1107099447
+        Data3: 506706317
+        Data4: 441259180
+      Path: event:/BGM/4.EDM/4_S35
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 176
+    music:
+      Guid:
+        Data1: 35004726
+        Data2: 1131730882
+        Data3: -826116444
+        Data4: 1162943674
+      Path: event:/BGM/4.EDM/4_S36
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 177
+    music:
+      Guid:
+        Data1: -1685470748
+        Data2: 1333889849
+        Data3: 936178361
+        Data4: 1777100430
+      Path: event:/BGM/4.EDM/4_S37
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 178
+    music:
+      Guid:
+        Data1: -329415741
+        Data2: 1088753515
+        Data3: 1083469455
+        Data4: -1107299771
+      Path: event:/BGM/4.EDM/4_S38
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 179
+    music:
+      Guid:
+        Data1: 332022925
+        Data2: 1091970987
+        Data3: -708029045
+        Data4: -1476711236
+      Path: event:/BGM/4.EDM/4_S39
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 180
+    music:
+      Guid:
+        Data1: 1860765268
+        Data2: 1178969410
+        Data3: 1866398119
+        Data4: 1570857313
+      Path: event:/BGM/4.EDM/4_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 181
+    music:
+      Guid:
+        Data1: -1112705430
+        Data2: 1164181840
+        Data3: 737173915
+        Data4: 1577861188
+      Path: event:/BGM/4.EDM/4_S41
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 182
+    music:
+      Guid:
+        Data1: -837605013
+        Data2: 1315373339
+        Data3: -279722606
+        Data4: 663542448
+      Path: event:/BGM/4.EDM/4_S42
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 183
+    music:
+      Guid:
+        Data1: 657319011
+        Data2: 1261873410
+        Data3: -2103374923
+        Data4: -196493558
+      Path: event:/BGM/4.EDM/4_S43
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 184
+    music:
+      Guid:
+        Data1: -1140906441
+        Data2: 1341004858
+        Data3: 781964941
+        Data4: -143531711
+      Path: event:/BGM/4.EDM/4_S44
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 185
+    music:
+      Guid:
+        Data1: -1152708492
+        Data2: 1274748331
+        Data3: -1859061619
+        Data4: -1176612709
+      Path: event:/BGM/4.EDM/4_S45
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 186
+    music:
+      Guid:
+        Data1: 1589699199
+        Data2: 1120399114
+        Data3: 997271950
+        Data4: -300915840
+      Path: event:/BGM/4.EDM/4_S46
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 187
+    music:
+      Guid:
+        Data1: -715228276
+        Data2: 1159291766
+        Data3: -1295564927
+        Data4: -1359549010
+      Path: event:/BGM/4.EDM/4_S47
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 188
+    music:
+      Guid:
+        Data1: -787741452
+        Data2: 1277906689
+        Data3: 408721836
+        Data4: 1585584227
+      Path: event:/BGM/4.EDM/4_S48
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 189
+    music:
+      Guid:
+        Data1: 677152387
+        Data2: 1110923112
+        Data3: 191730069
+        Data4: 878414224
+      Path: event:/BGM/4.EDM/4_S49
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 190
+    music:
+      Guid:
+        Data1: 1860765268
+        Data2: 1178969410
+        Data3: 1866398119
+        Data4: 1570857313
+      Path: event:/BGM/4.EDM/4_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 191
+    music:
+      Guid:
+        Data1: -690038677
+        Data2: 1236054040
+        Data3: 1627852727
+        Data4: 616026364
+      Path: event:/BGM/4.EDM/4_S51
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 192
+    music:
+      Guid:
+        Data1: -1756237143
+        Data2: 1272390216
+        Data3: -572620635
+        Data4: 1055486984
+      Path: event:/BGM/4.EDM/4_S52
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 193
+    music:
+      Guid:
+        Data1: -1009959049
+        Data2: 1270334113
+        Data3: -1282140753
+        Data4: -2090057768
+      Path: event:/BGM/4.EDM/4_S53
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 194
+    music:
+      Guid:
+        Data1: -821596291
+        Data2: 1247920764
+        Data3: -502272374
+        Data4: -1552213485
+      Path: event:/BGM/4.EDM/4_S54
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 195
+    music:
+      Guid:
+        Data1: 1762148134
+        Data2: 1235889570
+        Data3: 159548294
+        Data4: -1246953149
+      Path: event:/BGM/4.EDM/4_S55
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 196
+    music:
+      Guid:
+        Data1: -1896556148
+        Data2: 1223268781
+        Data3: -406084985
+        Data4: -1214939440
+      Path: event:/BGM/4.EDM/4_S56
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 197
+    music:
+      Guid:
+        Data1: 794708865
+        Data2: 1283651654
+        Data3: -254483265
+        Data4: -325590583
+      Path: event:/BGM/4.EDM/4_S57
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 198
+    music:
+      Guid:
+        Data1: 1709937628
+        Data2: 1214880674
+        Data3: -1425195127
+        Data4: -1778288158
+      Path: event:/BGM/4.EDM/4_S58
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 199
+    music:
+      Guid:
+        Data1: 668658177
+        Data2: 1124286815
+        Data3: -616533059
+        Data4: -1488414504
+      Path: event:/BGM/4.EDM/4_S59
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 200
+    music:
+      Guid:
+        Data1: 1816396773
+        Data2: 1210492275
+        Data3: 1669290941
+        Data4: 1185753501
+      Path: event:/BGM/4.EDM/4_S60 BOSS

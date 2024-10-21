@@ -1,0 +1,856 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac6fc07d5821bf45a0638a9476a2e88, type: 3}
+  m_Name: TMD_3Space
+  m_EditorClassIdentifier: 
+  _town: 2
+  _musicDatas:
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 81
+    music:
+      Guid:
+        Data1: 753022328
+        Data2: 1333220748
+        Data3: 1920289701
+        Data4: 1060912508
+      Path: event:/BGM/3.Space/3_S1
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 82
+    music:
+      Guid:
+        Data1: 62394268
+        Data2: 1077309854
+        Data3: -850117698
+        Data4: -760027149
+      Path: event:/BGM/3.Space/3_S2
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 83
+    music:
+      Guid:
+        Data1: -291872602
+        Data2: 1309708675
+        Data3: -1543081558
+        Data4: 706563985
+      Path: event:/BGM/3.Space/3_S3
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 84
+    music:
+      Guid:
+        Data1: -1670707494
+        Data2: 1232269406
+        Data3: 1164199836
+        Data4: 1645182199
+      Path: event:/BGM/3.Space/3_S4
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 85
+    music:
+      Guid:
+        Data1: -1751163033
+        Data2: 1280496164
+        Data3: -1783664762
+        Data4: -929107430
+      Path: event:/BGM/3.Space/3_S5
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 86
+    music:
+      Guid:
+        Data1: -1745956436
+        Data2: 1246097265
+        Data3: 1220473496
+        Data4: 2013427584
+      Path: event:/BGM/3.Space/3_S6
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 87
+    music:
+      Guid:
+        Data1: 1999254576
+        Data2: 1157787442
+        Data3: 958473659
+        Data4: 478484704
+      Path: event:/BGM/3.Space/3_S7
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 88
+    music:
+      Guid:
+        Data1: 1716186180
+        Data2: 1237845581
+        Data3: -1159478871
+        Data4: -642866263
+      Path: event:/BGM/3.Space/3_S8
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 89
+    music:
+      Guid:
+        Data1: 513422918
+        Data2: 1180324588
+        Data3: 2064860592
+        Data4: -708304848
+      Path: event:/BGM/3.Space/3_S9
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 90
+    music:
+      Guid:
+        Data1: -1535171677
+        Data2: 1269259944
+        Data3: -1056766836
+        Data4: 1774474762
+      Path: event:/BGM/3.Space/3_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 91
+    music:
+      Guid:
+        Data1: 1238750460
+        Data2: 1219805135
+        Data3: 1528745126
+        Data4: -88014412
+      Path: event:/BGM/3.Space/3_S11
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 92
+    music:
+      Guid:
+        Data1: -11941213
+        Data2: 1289969677
+        Data3: -1119668036
+        Data4: 91888306
+      Path: event:/BGM/3.Space/3_S12
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 93
+    music:
+      Guid:
+        Data1: 391875270
+        Data2: 1211335781
+        Data3: -2003152466
+        Data4: 906492205
+      Path: event:/BGM/3.Space/3_S13
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 94
+    music:
+      Guid:
+        Data1: -1616831800
+        Data2: 1221715877
+        Data3: -1584897144
+        Data4: 698103512
+      Path: event:/BGM/3.Space/3_S14
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 95
+    music:
+      Guid:
+        Data1: 1524157952
+        Data2: 1270652216
+        Data3: -1398287739
+        Data4: -1722312327
+      Path: event:/BGM/3.Space/3_S15
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 96
+    music:
+      Guid:
+        Data1: -1135400272
+        Data2: 1184399573
+        Data3: 1032009870
+        Data4: -1497419693
+      Path: event:/BGM/3.Space/3_S16
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 97
+    music:
+      Guid:
+        Data1: -1831127459
+        Data2: 1197053447
+        Data3: -423141711
+        Data4: 1189650713
+      Path: event:/BGM/3.Space/3_S17
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 98
+    music:
+      Guid:
+        Data1: -2125830334
+        Data2: 1247941801
+        Data3: -1996547952
+        Data4: -937665538
+      Path: event:/BGM/3.Space/3_S18
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 99
+    music:
+      Guid:
+        Data1: 1122278907
+        Data2: 1152331461
+        Data3: -700947565
+        Data4: -934291802
+      Path: event:/BGM/3.Space/3_S19
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 100
+    music:
+      Guid:
+        Data1: -1535171677
+        Data2: 1269259944
+        Data3: -1056766836
+        Data4: 1774474762
+      Path: event:/BGM/3.Space/3_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 101
+    music:
+      Guid:
+        Data1: 510553472
+        Data2: 1283557853
+        Data3: -1539297883
+        Data4: -678680848
+      Path: event:/BGM/3.Space/3_S21
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 102
+    music:
+      Guid:
+        Data1: -788099265
+        Data2: 1285891430
+        Data3: -1406353784
+        Data4: -367164040
+      Path: event:/BGM/3.Space/3_S22
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 103
+    music:
+      Guid:
+        Data1: -880517866
+        Data2: 1267553511
+        Data3: -552919661
+        Data4: -1610068241
+      Path: event:/BGM/3.Space/3_S23
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 104
+    music:
+      Guid:
+        Data1: -177402837
+        Data2: 1273999180
+        Data3: 99634094
+        Data4: 1490680397
+      Path: event:/BGM/3.Space/3_S24
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 105
+    music:
+      Guid:
+        Data1: -971836579
+        Data2: 1169750984
+        Data3: 489702553
+        Data4: -1864570306
+      Path: event:/BGM/3.Space/3_S25
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 106
+    music:
+      Guid:
+        Data1: 856798012
+        Data2: 1099588866
+        Data3: -1693638515
+        Data4: -615841673
+      Path: event:/BGM/3.Space/3_S26
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 107
+    music:
+      Guid:
+        Data1: -919652322
+        Data2: 1135033208
+        Data3: 763116928
+        Data4: 901474016
+      Path: event:/BGM/3.Space/3_S27
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 108
+    music:
+      Guid:
+        Data1: 586845922
+        Data2: 1249149040
+        Data3: 720293520
+        Data4: -1931815193
+      Path: event:/BGM/3.Space/3_S28
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 109
+    music:
+      Guid:
+        Data1: -1155255035
+        Data2: 1260457066
+        Data3: -1116262272
+        Data4: -295691686
+      Path: event:/BGM/3.Space/3_S29
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 110
+    music:
+      Guid:
+        Data1: -1535171677
+        Data2: 1269259944
+        Data3: -1056766836
+        Data4: 1774474762
+      Path: event:/BGM/3.Space/3_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 111
+    music:
+      Guid:
+        Data1: -1112412687
+        Data2: 1231027406
+        Data3: 489915276
+        Data4: 491915874
+      Path: event:/BGM/3.Space/3_S31
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 112
+    music:
+      Guid:
+        Data1: -850002370
+        Data2: 1340515776
+        Data3: -1662548327
+        Data4: -1551742513
+      Path: event:/BGM/3.Space/3_S32
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 113
+    music:
+      Guid:
+        Data1: 2003442076
+        Data2: 1239896776
+        Data3: -962867523
+        Data4: -1061740009
+      Path: event:/BGM/3.Space/3_S33
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 114
+    music:
+      Guid:
+        Data1: 965233040
+        Data2: 1306466267
+        Data3: -2135262808
+        Data4: 2100465582
+      Path: event:/BGM/3.Space/3_S34
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 115
+    music:
+      Guid:
+        Data1: -1853045628
+        Data2: 1164334266
+        Data3: -249420355
+        Data4: 759892791
+      Path: event:/BGM/3.Space/3_S35
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 116
+    music:
+      Guid:
+        Data1: 1199918903
+        Data2: 1136791688
+        Data3: -996502604
+        Data4: 728595281
+      Path: event:/BGM/3.Space/3_S36
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 117
+    music:
+      Guid:
+        Data1: 1365910792
+        Data2: 1289311073
+        Data3: -1014571096
+        Data4: -898534196
+      Path: event:/BGM/3.Space/3_S37
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 118
+    music:
+      Guid:
+        Data1: 413098280
+        Data2: 1230232281
+        Data3: -1080965750
+        Data4: -1256078551
+      Path: event:/BGM/3.Space/3_S38
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 119
+    music:
+      Guid:
+        Data1: -343975403
+        Data2: 1337554622
+        Data3: 1145918346
+        Data4: -1529158606
+      Path: event:/BGM/3.Space/3_S39
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 120
+    music:
+      Guid:
+        Data1: -1535171677
+        Data2: 1269259944
+        Data3: -1056766836
+        Data4: 1774474762
+      Path: event:/BGM/3.Space/3_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 121
+    music:
+      Guid:
+        Data1: -1556718066
+        Data2: 1118372980
+        Data3: 445253036
+        Data4: -2059700241
+      Path: event:/BGM/3.Space/3_S41
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 122
+    music:
+      Guid:
+        Data1: -977091409
+        Data2: 1106855943
+        Data3: 1535425674
+        Data4: 781740060
+      Path: event:/BGM/3.Space/3_S42
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 123
+    music:
+      Guid:
+        Data1: -807238432
+        Data2: 1178940518
+        Data3: -1901020534
+        Data4: -2037017158
+      Path: event:/BGM/3.Space/3_S43
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 124
+    music:
+      Guid:
+        Data1: 1812386440
+        Data2: 1074961699
+        Data3: -1944565089
+        Data4: 324311920
+      Path: event:/BGM/3.Space/3_S44
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 125
+    music:
+      Guid:
+        Data1: 1315067703
+        Data2: 1130058388
+        Data3: 1540204472
+        Data4: -1834725803
+      Path: event:/BGM/3.Space/3_S45
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 126
+    music:
+      Guid:
+        Data1: 1184986681
+        Data2: 1233592266
+        Data3: 1164675502
+        Data4: 138678725
+      Path: event:/BGM/3.Space/3_S46
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 127
+    music:
+      Guid:
+        Data1: 2088404554
+        Data2: 1103509695
+        Data3: 246861501
+        Data4: -1909134635
+      Path: event:/BGM/3.Space/3_S47
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 128
+    music:
+      Guid:
+        Data1: 1163089176
+        Data2: 1241193059
+        Data3: -361479294
+        Data4: 1191684275
+      Path: event:/BGM/3.Space/3_S48
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 129
+    music:
+      Guid:
+        Data1: 418253355
+        Data2: 1307192563
+        Data3: -2133940036
+        Data4: 1074556802
+      Path: event:/BGM/3.Space/3_S49
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 130
+    music:
+      Guid:
+        Data1: -1535171677
+        Data2: 1269259944
+        Data3: -1056766836
+        Data4: 1774474762
+      Path: event:/BGM/3.Space/3_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 131
+    music:
+      Guid:
+        Data1: 917431987
+        Data2: 1108125898
+        Data3: -1827229286
+        Data4: 927493837
+      Path: event:/BGM/3.Space/3_S51
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 132
+    music:
+      Guid:
+        Data1: -1488352098
+        Data2: 1338470926
+        Data3: 2321288
+        Data4: -1964051844
+      Path: event:/BGM/3.Space/3_S52
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 133
+    music:
+      Guid:
+        Data1: 2110576435
+        Data2: 1207731419
+        Data3: 798497439
+        Data4: 1048473481
+      Path: event:/BGM/3.Space/3_S53
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 134
+    music:
+      Guid:
+        Data1: -992591137
+        Data2: 1264944404
+        Data3: 670341517
+        Data4: 616853071
+      Path: event:/BGM/3.Space/3_S54
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 135
+    music:
+      Guid:
+        Data1: 1299415921
+        Data2: 1221861987
+        Data3: 1008173233
+        Data4: 1875616010
+      Path: event:/BGM/3.Space/3_S55
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 136
+    music:
+      Guid:
+        Data1: -67320997
+        Data2: 1313585176
+        Data3: 543262343
+        Data4: -165845791
+      Path: event:/BGM/3.Space/3_S56
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 137
+    music:
+      Guid:
+        Data1: 622124267
+        Data2: 1333525625
+        Data3: -1490826317
+        Data4: 1191267215
+      Path: event:/BGM/3.Space/3_S57
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 138
+    music:
+      Guid:
+        Data1: -1840456550
+        Data2: 1277454364
+        Data3: -1851595083
+        Data4: 83385657
+      Path: event:/BGM/3.Space/3_S58
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 139
+    music:
+      Guid:
+        Data1: -164756475
+        Data2: 1322552142
+        Data3: -1974592096
+        Data4: -692926240
+      Path: event:/BGM/3.Space/3_S59
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 140
+    music:
+      Guid:
+        Data1: 403891607
+        Data2: 1137718512
+        Data3: 1109729458
+        Data4: 455992600
+      Path: event:/BGM/3.Space/3_S60 BOSS

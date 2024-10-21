@@ -1,0 +1,1199 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53fe310cd06c20646a5ebd4e5406e2db, type: 3}
+  m_Name: AllTownData
+  m_EditorClassIdentifier: 
+  _townDatas:
+  - townType: 0
+    townName: WonderLand
+    townTitlePanel: {fileID: 21300000, guid: a72e70d46460c984ea06be5fba018517, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 0.8392157, g: 0.40392157, b: 0, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 20316
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0.39215687, g: 0, b: 0, a: 1}
+    outline: {r: 0.39215687, g: 0, b: 0, a: 1}
+    townThumb: {fileID: 21300000, guid: b7e301726b7ad0e4d84e657baaede604, type: 3}
+    quests: {fileID: 11400000, guid: a21c3326cfe523446a4e17043949d911, type: 2}
+    levelAmount: 30
+    assetCnt: 8
+    albumInfo:
+      albumName: WonderLand
+      townList: 0
+      unlockLevel: 30
+      albumSp: {fileID: 21300000, guid: 577134d81addbd647bb8bae241f4f141, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 992996194
+            Data2: 1310715556
+            Data3: 2046575534
+            Data4: -1371329379
+          Path: event:/BGM/Collection/1.ToyTown/C_0_1
+        musicId: WonderMusic_1
+        collectMusicImage: {fileID: 21300000, guid: 58caafa9d5a08bd419bad2b0380df39d,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 937023379
+            Data2: 1091645654
+            Data3: 2035434420
+            Data4: 1657762074
+          Path: event:/BGM/Collection/1.ToyTown/C_0_2
+        musicId: WonderMusic_2
+        collectMusicImage: {fileID: 21300000, guid: 587520a7d43e6984685f21d95d18fba4,
+          type: 3}
+        needQuaver: 10
+      - uuid: 2
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -867250994
+            Data2: 1095241551
+            Data3: 1866486928
+            Data4: 856842997
+          Path: event:/BGM/Collection/1.ToyTown/C_0_3
+        musicId: WonderMusic_3
+        collectMusicImage: {fileID: 21300000, guid: e0aec14f860bd074286f0e8e1080d3ad,
+          type: 3}
+        needQuaver: 10
+      - uuid: 3
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1826563553
+            Data2: 1283261319
+            Data3: 141910701
+            Data4: -2104781520
+          Path: event:/BGM/Collection/1.ToyTown/C_0_4
+        musicId: WonderMusic_4
+        collectMusicImage: {fileID: 21300000, guid: 3e42350932ce27d459687a67589a45ca,
+          type: 3}
+        needQuaver: 10
+      - uuid: 4
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 276795600
+            Data2: 1110360788
+            Data3: -1391458412
+            Data4: 1002823057
+          Path: event:/BGM/Collection/1.ToyTown/C_0_5
+        musicId: WonderMusic_5
+        collectMusicImage: {fileID: 21300000, guid: f571e50432d652240937454c4ad79b61,
+          type: 3}
+        needQuaver: 10
+      - uuid: 5
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -601213984
+            Data2: 1221862922
+            Data3: 2024587931
+            Data4: -2131530281
+          Path: event:/BGM/Collection/1.ToyTown/C_0_6
+        musicId: WonderMusic_6
+        collectMusicImage: {fileID: 21300000, guid: 0676e78086b8a974da2a311815dcb368,
+          type: 3}
+        needQuaver: 10
+      - uuid: 6
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1727887327
+            Data2: 1243390432
+            Data3: -1086702687
+            Data4: 1211218491
+          Path: event:/BGM/Collection/1.ToyTown/C_0_7
+        musicId: WonderMusic_7
+        collectMusicImage: {fileID: 21300000, guid: bb3909d45a019784c801b9a347d7f2c3,
+          type: 3}
+        needQuaver: 15
+      - uuid: 7
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -393748693
+            Data2: 1091904976
+            Data3: -515180358
+            Data4: 2127840368
+          Path: event:/BGM/Collection/1.ToyTown/C_0_8
+        musicId: WonderMusic_8
+        collectMusicImage: {fileID: 21300000, guid: 8696d4a1940ea9b4d998f3f059617168,
+          type: 3}
+        needQuaver: 15
+  - townType: 1
+    townName: VikingLand
+    townTitlePanel: {fileID: 21300000, guid: 835937cd6bca06a498dc0eb8e44e87a6, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 0.8392157, g: 0.40392157, b: 0, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 20316
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0.39215687, g: 0, b: 0, a: 1}
+    outline: {r: 0.39215687, g: 0, b: 0, a: 1}
+    townThumb: {fileID: 21300000, guid: 833a94c4374424142badaf70d7a9138c, type: 3}
+    quests: {fileID: 11400000, guid: 91f4d387236b6ff4aa40f0961dfa728c, type: 2}
+    levelAmount: 50
+    assetCnt: 8
+    albumInfo:
+      albumName: VikingLand
+      townList: 1
+      unlockLevel: 50
+      albumSp: {fileID: 21300000, guid: 7ddf63ce2f6c61f42a4d82c1301fd849, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1573102887
+            Data2: 1286696142
+            Data3: 487857043
+            Data4: -1958426968
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_1
+        musicId: VikingMusic_1
+        collectMusicImage: {fileID: 21300000, guid: 69ca4a3187e9e9242be9259bde919d6c,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1490984565
+            Data2: 1216284818
+            Data3: -215702337
+            Data4: 1686734262
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_2
+        musicId: VikingMusic_2
+        collectMusicImage: {fileID: 21300000, guid: e7cc02c1c1ccafe4d9c8c673359ea49b,
+          type: 3}
+        needQuaver: 10
+      - uuid: 2
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1261828286
+            Data2: 1200164965
+            Data3: 821439899
+            Data4: 281315453
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_3
+        musicId: VikingMusic_3
+        collectMusicImage: {fileID: 21300000, guid: 289928fce9ffb8942b77a14cfd4beb80,
+          type: 3}
+        needQuaver: 15
+      - uuid: 3
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 241019081
+            Data2: 1274515927
+            Data3: 1007253919
+            Data4: 308341104
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_4
+        musicId: VikingMusic_4
+        collectMusicImage: {fileID: 21300000, guid: 1332837ad662cc14cb73fb028c495cd1,
+          type: 3}
+        needQuaver: 15
+      - uuid: 4
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1109764020
+            Data2: 1141327395
+            Data3: -1817873731
+            Data4: 924345094
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_5
+        musicId: VikingMusic_5
+        collectMusicImage: {fileID: 21300000, guid: 752a4aa54248d3647865584f871dc0df,
+          type: 3}
+        needQuaver: 20
+      - uuid: 5
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 522391814
+            Data2: 1095800101
+            Data3: 250450098
+            Data4: -509190801
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_6
+        musicId: VikingMusic_6
+        collectMusicImage: {fileID: 21300000, guid: 5ff2d40b2780c3c4a9f46778924fb1f4,
+          type: 3}
+        needQuaver: 20
+      - uuid: 6
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1154171351
+            Data2: 1221966319
+            Data3: -1228649301
+            Data4: 1142916746
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_7
+        musicId: VikingMusic_7
+        collectMusicImage: {fileID: 21300000, guid: 6bcb0b490e279584e8dd797b8450ab1c,
+          type: 3}
+        needQuaver: 30
+      - uuid: 7
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 2129772199
+            Data2: 1280913000
+            Data3: 1527400622
+            Data4: -862308944
+          Path: event:/BGM/Collection/2.MiddleAge/C_1_8
+        musicId: VikingMusic_8
+        collectMusicImage: {fileID: 21300000, guid: 09b5173268a640440b74ee2154351bdb,
+          type: 3}
+        needQuaver: 30
+  - townType: 2
+    townName: CosmosLand
+    townTitlePanel: {fileID: 21300000, guid: 265eb56396d976a45996a226dfd44cf5, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 0, g: 0, b: 0, a: 1}
+      key1: {r: 0, g: 0, b: 0, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0, g: 1, b: 0.81960785, a: 1}
+    outline: {r: 0.22352941, g: 1, b: 0.39607844, a: 1}
+    townThumb: {fileID: 21300000, guid: b2cd3fd129cbfc740a3f4743060f0fd5, type: 3}
+    quests: {fileID: 11400000, guid: 16ef344e7286c1d4983a7b1162a71980, type: 2}
+    levelAmount: 60
+    assetCnt: 8
+    albumInfo:
+      albumName: CosmosLand
+      townList: 2
+      unlockLevel: 60
+      albumSp: {fileID: 21300000, guid: dd2c74f0fd0b2fc428fa31e6974f1dba, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1997361510
+            Data2: 1244548216
+            Data3: 446420361
+            Data4: -386917980
+          Path: event:/BGM/Collection/3.Space/C_2_1
+        musicId: CosmosMusic_1
+        collectMusicImage: {fileID: 21300000, guid: 68ee39f951314e54b9d3420e86be46d6,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1820441917
+            Data2: 1269368986
+            Data3: -1392394309
+            Data4: -1828923427
+          Path: event:/BGM/Collection/3.Space/C_2_2
+        musicId: CosmosMusic_2
+        collectMusicImage: {fileID: 21300000, guid: 2b94e9e2ed26a4e4ca54d0dcb36b9f03,
+          type: 3}
+        needQuaver: 10
+      - uuid: 2
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1412745962
+            Data2: 1191961073
+            Data3: 1747076254
+            Data4: -2002146750
+          Path: event:/BGM/Collection/3.Space/C_2_3
+        musicId: CosmosMusic_3
+        collectMusicImage: {fileID: 21300000, guid: 826822a3937c1de42b6d458f4a61710d,
+          type: 3}
+        needQuaver: 15
+      - uuid: 3
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1208611856
+            Data2: 1254817783
+            Data3: -1210867051
+            Data4: -966247998
+          Path: event:/BGM/Collection/3.Space/C_2_4
+        musicId: CosmosMusic_4
+        collectMusicImage: {fileID: 21300000, guid: d62447e6c59b8464abd9aed52eceaa55,
+          type: 3}
+        needQuaver: 15
+      - uuid: 4
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -50509817
+            Data2: 1259586247
+            Data3: 1740808083
+            Data4: 1725958031
+          Path: event:/BGM/Collection/3.Space/C_2_5
+        musicId: CosmosMusic_5
+        collectMusicImage: {fileID: 21300000, guid: 0fa675cd25956684fac44d272e92676f,
+          type: 3}
+        needQuaver: 30
+      - uuid: 5
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 532168411
+            Data2: 1259915886
+            Data3: 1885831054
+            Data4: 1747052507
+          Path: event:/BGM/Collection/3.Space/C_2_6
+        musicId: CosmosMusic_6
+        collectMusicImage: {fileID: 21300000, guid: f5fa6f1fc8a1a4c4ca24cd011316c909,
+          type: 3}
+        needQuaver: 30
+      - uuid: 6
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1703992833
+            Data2: 1222949329
+            Data3: 1155060608
+            Data4: 835259308
+          Path: event:/BGM/Collection/3.Space/C_2_7
+        musicId: CosmosMusic_7
+        collectMusicImage: {fileID: 21300000, guid: f6c2139f1b89ffd439864b62b92c8b88,
+          type: 3}
+        needQuaver: 35
+      - uuid: 7
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -12148201
+            Data2: 1253643670
+            Data3: -1001334889
+            Data4: -2014507168
+          Path: event:/BGM/Collection/3.Space/C_2_8
+        musicId: CosmosMusic_8
+        collectMusicImage: {fileID: 21300000, guid: 41103df32e59fbf4191b603e71c09c33,
+          type: 3}
+        needQuaver: 35
+  - townType: 3
+    townName: EDMLand
+    townTitlePanel: {fileID: 21300000, guid: 20922655ccf8f9042be17bc21c8b5d62, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 0.72156864, b: 0.95686275, a: 1}
+      key1: {r: 1, g: 0.9607843, b: 0.64705884, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 3277
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0.1254902, g: 0.07450981, b: 0.5529412, a: 1}
+    outline: {r: 0.1254902, g: 0.07450981, b: 0.5529412, a: 1}
+    townThumb: {fileID: 21300000, guid: 385c09fef8a0f794d93a1c248fc84a40, type: 3}
+    quests: {fileID: 11400000, guid: 17ec3d9ad4404ca4e97751157d4072c9, type: 2}
+    levelAmount: 60
+    assetCnt: 8
+    albumInfo:
+      albumName: EDMLand
+      townList: 3
+      unlockLevel: 60
+      albumSp: {fileID: 21300000, guid: 6a2b1d9ead7286841bed2cb207699e77, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 2056364061
+            Data2: 1239789155
+            Data3: 1170583429
+            Data4: -589827534
+          Path: event:/BGM/Collection/4.Neon/C_3_1
+        musicId: EDMMusic_1
+        collectMusicImage: {fileID: 21300000, guid: 0c5b404f462bd994d8898b7a41b31f50,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1548703305
+            Data2: 1162421019
+            Data3: 670466693
+            Data4: -1694087399
+          Path: event:/BGM/Collection/4.Neon/C_3_2
+        musicId: EDMMusic_2
+        collectMusicImage: {fileID: 21300000, guid: 412265fb84c3934488968dafba7e117d,
+          type: 3}
+        needQuaver: 10
+      - uuid: 2
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 2057206453
+            Data2: 1112587238
+            Data3: 1535753399
+            Data4: -478564565
+          Path: event:/BGM/Collection/4.Neon/C_3_3
+        musicId: EDMMusic_3
+        collectMusicImage: {fileID: 21300000, guid: 04b4925856b3dd04d91a9b971419592c,
+          type: 3}
+        needQuaver: 15
+      - uuid: 3
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1098809341
+            Data2: 1188477543
+            Data3: -1109709148
+            Data4: -577597234
+          Path: event:/BGM/Collection/4.Neon/C_3_4
+        musicId: EDMMusic_4
+        collectMusicImage: {fileID: 21300000, guid: cd2a70b236a648a4fbab60ae96ba4a79,
+          type: 3}
+        needQuaver: 15
+      - uuid: 4
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 824347855
+            Data2: 1173273832
+            Data3: -2004306014
+            Data4: -1386458399
+          Path: event:/BGM/Collection/4.Neon/C_3_5
+        musicId: EDMMusic_5
+        collectMusicImage: {fileID: 21300000, guid: b21bc0de680d4534294c0b42a500faa6,
+          type: 3}
+        needQuaver: 25
+      - uuid: 5
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 500306878
+            Data2: 1253018524
+            Data3: -354956917
+            Data4: 98977830
+          Path: event:/BGM/Collection/4.Neon/C_3_6
+        musicId: EDMMusic_6
+        collectMusicImage: {fileID: 21300000, guid: 3153f9c56eaa8f344afb64cb2e7bef43,
+          type: 3}
+        needQuaver: 25
+      - uuid: 6
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -561181967
+            Data2: 1128587611
+            Data3: 1281625786
+            Data4: -1071994926
+          Path: event:/BGM/Collection/4.Neon/C_3_7
+        musicId: EDMMusic_7
+        collectMusicImage: {fileID: 21300000, guid: 913032f5cc85be146b83b42fcbb892e4,
+          type: 3}
+        needQuaver: 40
+      - uuid: 7
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1093537032
+            Data2: 1252305837
+            Data3: -470263114
+            Data4: -501671824
+          Path: event:/BGM/Collection/4.Neon/C_3_8
+        musicId: EDMMusic_8
+        collectMusicImage: {fileID: 21300000, guid: 92f717f4b29b6ca46aaaec76fb339cc5,
+          type: 3}
+        needQuaver: 40
+  - townType: 4
+    townName: ArabianLand
+    townTitlePanel: {fileID: 21300000, guid: 970155577ae14a043b8fe1c24bacb6b8, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 0.9882353, b: 0.8235294, a: 1}
+      key1: {r: 0.91764706, g: 0.87058824, b: 0.50980395, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0.8235294, g: 0.45490196, b: 0.81960785, a: 1}
+    outline: {r: 0.8235294, g: 0.45490196, b: 0.81960785, a: 1}
+    townThumb: {fileID: 21300000, guid: 288301e1b4b5ded4e8ea1e919f317314, type: 3}
+    quests: {fileID: 11400000, guid: 1c7d549092fc0344a8b08e508addafcf, type: 2}
+    levelAmount: 60
+    assetCnt: 8
+    albumInfo:
+      albumName: ArabianLand
+      townList: 4
+      unlockLevel: 60
+      albumSp: {fileID: 21300000, guid: 00956230c0859b94f92d01deb5c59b84, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1569132585
+            Data2: 1153944215
+            Data3: 751849652
+            Data4: -739222715
+          Path: event:/BGM/Collection/5.Arabian/C_4_1
+        musicId: ArabianMusic_1
+        collectMusicImage: {fileID: 21300000, guid: de65725ae9c9f214d8dc0e9dc65c555d,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 851959979
+            Data2: 1303073219
+            Data3: -448100212
+            Data4: -490653080
+          Path: event:/BGM/Collection/5.Arabian/C_4_2
+        musicId: ArabianMusic_2
+        collectMusicImage: {fileID: 21300000, guid: a90241b57cd5e4b45b88a68acbb6072f,
+          type: 3}
+        needQuaver: 15
+      - uuid: 2
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1049918513
+            Data2: 1223212454
+            Data3: 984636341
+            Data4: 611487199
+          Path: event:/BGM/Collection/5.Arabian/C_4_3
+        musicId: ArabianMusic_3
+        collectMusicImage: {fileID: 21300000, guid: 52058170cb547754c9c4fa31148a51a3,
+          type: 3}
+        needQuaver: 15
+      - uuid: 3
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1341994102
+            Data2: 1303630399
+            Data3: -1515397981
+            Data4: 1361143613
+          Path: event:/BGM/Collection/5.Arabian/C_4_4
+        musicId: ArabianMusic_4
+        collectMusicImage: {fileID: 21300000, guid: 27c62668c7f68414b90a7993931ee053,
+          type: 3}
+        needQuaver: 20
+      - uuid: 4
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -480202010
+            Data2: 1276683047
+            Data3: -839889492
+            Data4: -1086325838
+          Path: event:/BGM/Collection/5.Arabian/C_4_5
+        musicId: ArabianMusic_5
+        collectMusicImage: {fileID: 21300000, guid: 79c9fe70ad6de644b8200d57f2585783,
+          type: 3}
+        needQuaver: 20
+      - uuid: 5
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1174612822
+            Data2: 1171072889
+            Data3: -787901004
+            Data4: 1075729310
+          Path: event:/BGM/Collection/5.Arabian/C_4_6
+        musicId: ArabianMusic_6
+        collectMusicImage: {fileID: 21300000, guid: 4c5e1a5d81fe9ba429f75b807cff2fed,
+          type: 3}
+        needQuaver: 25
+      - uuid: 6
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 584402063
+            Data2: 1317953486
+            Data3: -1573001539
+            Data4: 1874873024
+          Path: event:/BGM/Collection/5.Arabian/C_4_7
+        musicId: ArabianMusic_7
+        collectMusicImage: {fileID: 21300000, guid: d4d115073de2ea349906e9c920da2ce9,
+          type: 3}
+        needQuaver: 35
+      - uuid: 7
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -494832656
+            Data2: 1301308145
+            Data3: 644786330
+            Data4: 660478097
+          Path: event:/BGM/Collection/5.Arabian/C_4_8
+        musicId: ArabianMusic_8
+        collectMusicImage: {fileID: 21300000, guid: ec87f01228471f94b855111cf8417b76,
+          type: 3}
+        needQuaver: 40
+  - townType: 5
+    townName: TropicalLand
+    townTitlePanel: {fileID: 21300000, guid: 669bb4d5363f64f4ea0da06ced4a4935, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 1, g: 0.99215686, b: 0.95686275, a: 1}
+      key1: {r: 1, g: 0.9098039, b: 0.6862745, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0.9137255, g: 0.42745098, b: 0.6, a: 1}
+    outline: {r: 0.9137255, g: 0.42745098, b: 0.6, a: 1}
+    townThumb: {fileID: 21300000, guid: a01d1a9e5586ac249b4229389eadc8f9, type: 3}
+    quests: {fileID: 11400000, guid: 4a1fb15c9bebd28449a276ab385d3c62, type: 2}
+    levelAmount: 60
+    assetCnt: 8
+    albumInfo:
+      albumName: TropicalLand
+      townList: 5
+      unlockLevel: 60
+      albumSp: {fileID: 21300000, guid: 61f2709a1cbba7c4a988534d287afbba, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 785504475
+            Data2: 1218728113
+            Data3: 835314873
+            Data4: -147888278
+          Path: event:/BGM/Collection/6.Tropical/C_5_1
+        musicId: TropicalMusic_1
+        collectMusicImage: {fileID: 21300000, guid: 64ee54e1c96fb8944b97a018cef7c7a0,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -644293608
+            Data2: 1225172460
+            Data3: -1350060393
+            Data4: -1510703120
+          Path: event:/BGM/Collection/6.Tropical/C_5_2
+        musicId: TropicalMusic_2
+        collectMusicImage: {fileID: 21300000, guid: 11a1cd237fc076b4e9c479b75db0836d,
+          type: 3}
+        needQuaver: 15
+      - uuid: 2
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 61873169
+            Data2: 1324365708
+            Data3: 1392306060
+            Data4: -608795190
+          Path: event:/BGM/Collection/6.Tropical/C_5_3
+        musicId: TropicalMusic_3
+        collectMusicImage: {fileID: 21300000, guid: 8fe33fdfa28e4124abe72584ec290964,
+          type: 3}
+        needQuaver: 15
+      - uuid: 3
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1424739021
+            Data2: 1283580950
+            Data3: -1869400161
+            Data4: 1920245484
+          Path: event:/BGM/Collection/6.Tropical/C_5_4
+        musicId: TropicalMusic_4
+        collectMusicImage: {fileID: 21300000, guid: 5aa15e4c4e3395f41ae92b8444843b9b,
+          type: 3}
+        needQuaver: 20
+      - uuid: 4
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1067043312
+            Data2: 1077949585
+            Data3: 1438263216
+            Data4: 157254537
+          Path: event:/BGM/Collection/6.Tropical/C_5_5
+        musicId: TropicalMusic_5
+        collectMusicImage: {fileID: 21300000, guid: bd747f727eeca5946af69a3c8a5ba9ec,
+          type: 3}
+        needQuaver: 20
+      - uuid: 5
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 570590950
+            Data2: 1197443749
+            Data3: 46612371
+            Data4: -2111856200
+          Path: event:/BGM/Collection/6.Tropical/C_5_6
+        musicId: TropicalMusic_6
+        collectMusicImage: {fileID: 21300000, guid: 81718365399bba54fa0e33b47ad6b8a9,
+          type: 3}
+        needQuaver: 30
+      - uuid: 6
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 2080750126
+            Data2: 1128237600
+            Data3: 1199333251
+            Data4: 539501917
+          Path: event:/BGM/Collection/6.Tropical/C_5_7
+        musicId: TropicalMusic_7
+        collectMusicImage: {fileID: 21300000, guid: f575f9b5892acbb49ae15da6a05dd860,
+          type: 3}
+        needQuaver: 30
+      - uuid: 7
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1233437586
+            Data2: 1195842470
+            Data3: 1902266532
+            Data4: 1914161332
+          Path: event:/BGM/Collection/6.Tropical/C_5_8
+        musicId: TropicalMusic_8
+        collectMusicImage: {fileID: 21300000, guid: 8b1fc0f723ab2704dbdbef4d1201cfda,
+          type: 3}
+        needQuaver: 40
+  - townType: 6
+    townName: JazzLand
+    townTitlePanel: {fileID: 21300000, guid: e78066ba6a84bce4db47e10b8d42828c, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 0.3882353, g: 0.78039217, b: 0.4509804, a: 1}
+      key1: {r: 1, g: 1, b: 1, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 3277
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0.69411767, g: 0.35686275, b: 0.13333334, a: 1}
+    outline: {r: 0.69411767, g: 0.35686275, b: 0.13333334, a: 1}
+    townThumb: {fileID: 21300000, guid: 06dacb2c83e642b4fb4a567241956e82, type: 3}
+    quests: {fileID: 11400000, guid: 5a048d9db9add0a41b723fdb4becbe19, type: 2}
+    levelAmount: 60
+    assetCnt: 8
+    albumInfo:
+      albumName: JazzLand
+      townList: 6
+      unlockLevel: 60
+      albumSp: {fileID: 21300000, guid: a48ec6bfa7eb88e42aee6cb80a953d75, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -847287705
+            Data2: 1228076844
+            Data3: -1988063605
+            Data4: 1823922086
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_1
+        musicId: JazzMusic_1
+        collectMusicImage: {fileID: 21300000, guid: 17ba5ff9aab94134583c28816d7167fa,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 2057052259
+            Data2: 1181849660
+            Data3: -28334157
+            Data4: -862643001
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_2
+        musicId: JazzMusic_2
+        collectMusicImage: {fileID: 21300000, guid: b52128b44465beb4aba99e124ee78514,
+          type: 3}
+        needQuaver: 10
+      - uuid: 2
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1247114023
+            Data2: 1306952681
+            Data3: -1966175300
+            Data4: 1182223931
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_3
+        musicId: JazzMusic_3
+        collectMusicImage: {fileID: 21300000, guid: 802b8e3368cbcf04a917b9ffa9160d44,
+          type: 3}
+        needQuaver: 15
+      - uuid: 3
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: -1346704543
+            Data2: 1224163054
+            Data3: -40178029
+            Data4: 781619292
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_4
+        musicId: JazzMusic_4
+        collectMusicImage: {fileID: 21300000, guid: ef548b93ba3e40549a21fed4609f7be5,
+          type: 3}
+        needQuaver: 15
+      - uuid: 4
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 19083049
+            Data2: 1134016745
+            Data3: 1022014856
+            Data4: 602040503
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_5
+        musicId: JazzMusic_5
+        collectMusicImage: {fileID: 21300000, guid: 8853e448169ac0c478580544b2c46523,
+          type: 3}
+        needQuaver: 25
+      - uuid: 5
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 1205242345
+            Data2: 1154857943
+            Data3: 1589047687
+            Data4: -1211512148
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_6
+        musicId: JazzMusic_6
+        collectMusicImage: {fileID: 21300000, guid: 6a615e2aa1575784a9dba343cfa6e973,
+          type: 3}
+        needQuaver: 30
+      - uuid: 6
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 866627721
+            Data2: 1249311202
+            Data3: 922006697
+            Data4: -1223314515
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_7
+        musicId: JazzMusic_7
+        collectMusicImage: {fileID: 21300000, guid: 42ca278ad1b22cd4aa58fe8fdfafef30,
+          type: 3}
+        needQuaver: 35
+      - uuid: 7
+        townList: 0
+        collectMusic:
+          Guid:
+            Data1: 246592661
+            Data2: 1289335716
+            Data3: 803531955
+            Data4: -2122498850
+          Path: event:/BGM/Collection/7.JazzCafe/C_6_8
+        musicId: JazzMusic_8
+        collectMusicImage: {fileID: 21300000, guid: f706d0a01003b6b48926ed0c41748931,
+          type: 3}
+        needQuaver: 40
+  - townType: 7
+    townName: HalloweenLand
+    townTitlePanel: {fileID: 21300000, guid: e1f132263d0e88a42b3dded0cb6d0766, type: 3}
+    _effectGradient:
+      serializedVersion: 2
+      key0: {r: 0.92941177, g: 0.5764706, b: 0.13333334, a: 1}
+      key1: {r: 1, g: 0.99215686, b: 0.95686275, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 62258
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    shadow: {r: 0.7058824, g: 0.21960784, b: 0, a: 1}
+    outline: {r: 0.7058824, g: 0.21960784, b: 0, a: 1}
+    townThumb: {fileID: 21300000, guid: 67eb5e57209279e4eab7cd830b10f30c, type: 3}
+    quests: {fileID: 11400000, guid: 95252c93dc551d5448f5c5380291d3ba, type: 2}
+    levelAmount: 60
+    assetCnt: 8
+    albumInfo:
+      albumName: HalloweenLand
+      townList: 7
+      unlockLevel: 60
+      albumSp: {fileID: 21300000, guid: 7d4b8a4b7f382f04eb6b9b184dd710d1, type: 3}
+      collectMusics:
+      - uuid: 0
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: -1264900144
+            Data2: 1174475498
+            Data3: -945395294
+            Data4: 2042303270
+          Path: event:/BGM/Collection/8.Halloween/C_7_1
+        musicId: HalloweenMusic_1
+        collectMusicImage: {fileID: 21300000, guid: e6d35fbf1d98a8c41aebf338cebe3527,
+          type: 3}
+        needQuaver: 10
+      - uuid: 1
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: -463601554
+            Data2: 1081790915
+            Data3: 605194915
+            Data4: -1855010294
+          Path: event:/BGM/Collection/8.Halloween/C_7_2
+        musicId: HalloweenMusic_2
+        collectMusicImage: {fileID: 21300000, guid: 980c830e07d115a4993b5d220fc1b17b,
+          type: 3}
+        needQuaver: 10
+      - uuid: 2
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: -788615472
+            Data2: 1126729185
+            Data3: -475491432
+            Data4: 2123812431
+          Path: event:/BGM/Collection/8.Halloween/C_7_3
+        musicId: HalloweenMusic_3
+        collectMusicImage: {fileID: 21300000, guid: cc7a3468680b8b54cbdf75819d61cef7,
+          type: 3}
+        needQuaver: 15
+      - uuid: 3
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: 1663070885
+            Data2: 1261678298
+            Data3: 428492418
+            Data4: -600645689
+          Path: event:/BGM/Collection/8.Halloween/C_7_4
+        musicId: HalloweenMusic_4
+        collectMusicImage: {fileID: 21300000, guid: 7714c47da5e81b94690f3d56ce105370,
+          type: 3}
+        needQuaver: 15
+      - uuid: 4
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: 3634485
+            Data2: 1074022769
+            Data3: -1146994538
+            Data4: -1800736977
+          Path: event:/BGM/Collection/8.Halloween/C_7_5
+        musicId: HalloweenMusic_5
+        collectMusicImage: {fileID: 21300000, guid: be330862ef2a24547bf718946c55b7be,
+          type: 3}
+        needQuaver: 25
+      - uuid: 5
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: 1365956909
+            Data2: 1279638509
+            Data3: 880922270
+            Data4: 243092654
+          Path: event:/BGM/Collection/8.Halloween/C_7_6
+        musicId: HalloweenMusic_6
+        collectMusicImage: {fileID: 21300000, guid: 3603ffd81a061014084e5d8753d7a7ed,
+          type: 3}
+        needQuaver: 25
+      - uuid: 6
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: -1173217280
+            Data2: 1246328206
+            Data3: 182573464
+            Data4: 623466716
+          Path: event:/BGM/Collection/8.Halloween/C_7_7
+        musicId: HalloweenMusic_7
+        collectMusicImage: {fileID: 21300000, guid: 5433420ea0ef7b945a9d7b27b00275e8,
+          type: 3}
+        needQuaver: 40
+      - uuid: 7
+        townList: 7
+        collectMusic:
+          Guid:
+            Data1: 1228223807
+            Data2: 1160359824
+            Data3: -1045080656
+            Data4: -1657539922
+          Path: event:/BGM/Collection/8.Halloween/C_7_8
+        musicId: HalloweenMusic_8
+        collectMusicImage: {fileID: 21300000, guid: ef133a138fa430b4d92bc7dc52c4a49a,
+          type: 3}
+        needQuaver: 40

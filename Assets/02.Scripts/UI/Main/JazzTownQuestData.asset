@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a44ac7ff7a5c24a9ce70e45e34c526, type: 3}
+  m_Name: JazzTownQuestData
+  m_EditorClassIdentifier: 
+  _questDatas:
+  - assetName: JazzAsset_1
+    assetSprite: {fileID: 21300000, guid: a95bbfe7d88f6a34db2e18285a16bd27, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 1db75d3a4713c4d4cacd652f5142b339, type: 3}
+    unlockStage: 325
+  - assetName: JazzAsset_2
+    assetSprite: {fileID: 21300000, guid: 33182b6d78aeab6478cd0e3d13aeb84f, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: aff506385a5dd7547a9be5a09b9dac27, type: 3}
+    unlockStage: 335
+  - assetName: JazzAsset_3
+    assetSprite: {fileID: 21300000, guid: 8ad955da078b2c841a5cb6b038165d06, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: b5e38018445d55f428c4688cfd471936, type: 3}
+    unlockStage: 345
+  - assetName: JazzAsset_4
+    assetSprite: {fileID: 21300000, guid: f7e486c2973b1234ca1312b9165eb22c, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: f1e0bdf46bcd3374082ef40ba40a3b23, type: 3}
+    unlockStage: 352
+  - assetName: JazzAsset_5
+    assetSprite: {fileID: 21300000, guid: 3871526224611af41bbdf500309a3ebb, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 1b6a6a4f788965e46bc74ca6e8022dcc, type: 3}
+    unlockStage: 363
+  - assetName: JazzAsset_6
+    assetSprite: {fileID: 21300000, guid: 04c2c25c8bd948046a56f9deeae62dde, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: fc98bbf2bab4e9248bb67da9e3c8f015, type: 3}
+    unlockStage: 368
+  - assetName: JazzAsset_7
+    assetSprite: {fileID: 21300000, guid: 59d8209d36c0c584eb9b7691cb7308a9, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 043b9f66beb2f8c43a484b59ff8c1bbd, type: 3}
+    unlockStage: 372
+  - assetName: LastAsset
+    assetSprite: {fileID: 21300000, guid: f9e6cef934392ba488470b2b7242a395, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 6e3f67a788757094a875a670580d222d, type: 3}
+    unlockStage: 380
+  _videoFirstFrame: {fileID: 21300000, guid: a89c9b1f393f4034c98963e051c0dc89, type: 3}
+  _videoLastFrames:
+  - {fileID: 21300000, guid: 66b7ed5cc25eab847b6328c7834a2b81, type: 3}
+  - {fileID: 21300000, guid: 54a6bbbb4b079004eb087d7efb09a65f, type: 3}
+  - {fileID: 21300000, guid: 0b94552df650b014e918674f9a14bcf9, type: 3}
+  - {fileID: 21300000, guid: dac638ab6b4023c47aef2453e440af9d, type: 3}
+  - {fileID: 21300000, guid: 0cc511d8d0a47184eb4731a744c7c570, type: 3}
+  - {fileID: 21300000, guid: a4443e4b3d91b2f40a3230d73c55f748, type: 3}
+  - {fileID: 21300000, guid: 9e37a79e03294b24c996e1c3088a47bf, type: 3}
+  - {fileID: 21300000, guid: 9f7417cfa2148c8478bfbf34bf0ec7f6, type: 3}
+  _videoClips:
+  - {fileID: 32900000, guid: fb7a43557f9ab4642bf90ef0b0b352d9, type: 3}
+  - {fileID: 32900000, guid: f55d11788568f374d9bf3c6194a32a5a, type: 3}
+  - {fileID: 32900000, guid: 4d9ed0d5c0635ac4aaa84ac80619fd56, type: 3}
+  - {fileID: 32900000, guid: 7910d7f4334b2dc489d133556845b3e7, type: 3}
+  - {fileID: 32900000, guid: 880681c5dd7f2ae4fa2c66452180a3d3, type: 3}
+  - {fileID: 32900000, guid: 465a92f4e627771448d8ff12b138c181, type: 3}
+  - {fileID: 32900000, guid: 35a5270e064632c489d67bb6f06a9ea4, type: 3}
+  - {fileID: 32900000, guid: ae1c97244a96c214abb1c0eb4c903837, type: 3}
+  _isLooping: 1

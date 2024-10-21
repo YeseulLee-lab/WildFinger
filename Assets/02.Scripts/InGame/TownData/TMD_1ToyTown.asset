@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac6fc07d5821bf45a0638a9476a2e88, type: 3}
+  m_Name: TMD_1ToyTown
+  m_EditorClassIdentifier: 
+  _town: 0
+  _musicDatas:
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 1
+    music:
+      Guid:
+        Data1: 565018672
+        Data2: 1180554021
+        Data3: -882594392
+        Data4: 1187314254
+      Path: event:/BGM/1.ToyTown/1_S1
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 2
+    music:
+      Guid:
+        Data1: 329976805
+        Data2: 1151563947
+        Data3: 174512018
+        Data4: -47669186
+      Path: event:/BGM/1.ToyTown/1_S2
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 3
+    music:
+      Guid:
+        Data1: 39475101
+        Data2: 1098862648
+        Data3: 999928729
+        Data4: -1202960710
+      Path: event:/BGM/1.ToyTown/1_S3
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 4
+    music:
+      Guid:
+        Data1: 1441417447
+        Data2: 1324674186
+        Data3: 505783734
+        Data4: 1477509371
+      Path: event:/BGM/1.ToyTown/1_S4
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 5
+    music:
+      Guid:
+        Data1: 1982669598
+        Data2: 1090183023
+        Data3: 2072310968
+        Data4: -274459972
+      Path: event:/BGM/1.ToyTown/1_S5
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 6
+    music:
+      Guid:
+        Data1: -1034059438
+        Data2: 1307679222
+        Data3: 152509
+        Data4: 747060056
+      Path: event:/BGM/1.ToyTown/1_S6
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 7
+    music:
+      Guid:
+        Data1: -809601514
+        Data2: 1148689692
+        Data3: 961568144
+        Data4: 690132592
+      Path: event:/BGM/1.ToyTown/1_S7
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 8
+    music:
+      Guid:
+        Data1: -1419599946
+        Data2: 1223638354
+        Data3: -173282681
+        Data4: 2051639125
+      Path: event:/BGM/1.ToyTown/1_S8
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 9
+    music:
+      Guid:
+        Data1: -357594307
+        Data2: 1127809580
+        Data3: -1958971994
+        Data4: -840386317
+      Path: event:/BGM/1.ToyTown/1_S9
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 10
+    music:
+      Guid:
+        Data1: 68919460
+        Data2: 1090086544
+        Data3: -314972792
+        Data4: -29074593
+      Path: event:/BGM/1.ToyTown/1_S10 MG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 11
+    music:
+      Guid:
+        Data1: 1812713418
+        Data2: 1325486508
+        Data3: 1506731431
+        Data4: 892512967
+      Path: event:/BGM/1.ToyTown/1_S11
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 12
+    music:
+      Guid:
+        Data1: 2046568053
+        Data2: 1223334066
+        Data3: 2101554328
+        Data4: -561293350
+      Path: event:/BGM/1.ToyTown/1_S12
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 13
+    music:
+      Guid:
+        Data1: 174812161
+        Data2: 1084335968
+        Data3: -203058028
+        Data4: 124666151
+      Path: event:/BGM/1.ToyTown/1_S13
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 14
+    music:
+      Guid:
+        Data1: -602183886
+        Data2: 1109597582
+        Data3: -872280182
+        Data4: 809392762
+      Path: event:/BGM/1.ToyTown/1_S14
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 15
+    music:
+      Guid:
+        Data1: 717279577
+        Data2: 1175112889
+        Data3: 1169521323
+        Data4: -319706210
+      Path: event:/BGM/1.ToyTown/1_S15
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 16
+    music:
+      Guid:
+        Data1: 1986011097
+        Data2: 1149218755
+        Data3: 770808474
+        Data4: -1433988339
+      Path: event:/BGM/1.ToyTown/1_S16
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 17
+    music:
+      Guid:
+        Data1: 1693499094
+        Data2: 1173736724
+        Data3: -1377087605
+        Data4: -1950265313
+      Path: event:/BGM/1.ToyTown/1_S17
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 18
+    music:
+      Guid:
+        Data1: 1565039103
+        Data2: 1234494737
+        Data3: -1630794104
+        Data4: -2014335047
+      Path: event:/BGM/1.ToyTown/1_S18
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 19
+    music:
+      Guid:
+        Data1: 1042168985
+        Data2: 1199491301
+        Data3: -1213981554
+        Data4: -7355720
+      Path: event:/BGM/1.ToyTown/1_S19
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 20
+    music:
+      Guid:
+        Data1: -1894308006
+        Data2: 1331309338
+        Data3: -565080419
+        Data4: -1432757607
+      Path: event:/BGM/1.ToyTown/1_S20 MG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 21
+    music:
+      Guid:
+        Data1: 1154646031
+        Data2: 1252921861
+        Data3: 1807726469
+        Data4: 1107049660
+      Path: event:/BGM/1.ToyTown/1_S21
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 22
+    music:
+      Guid:
+        Data1: -111061471
+        Data2: 1091336000
+        Data3: 1515707278
+        Data4: -66708040
+      Path: event:/BGM/1.ToyTown/1_S22
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 23
+    music:
+      Guid:
+        Data1: -1536813603
+        Data2: 1153603971
+        Data3: -170439245
+        Data4: -936506405
+      Path: event:/BGM/1.ToyTown/1_S23
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 24
+    music:
+      Guid:
+        Data1: -1552754425
+        Data2: 1095884427
+        Data3: -1594852700
+        Data4: 94104283
+      Path: event:/BGM/1.ToyTown/1_S24
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 25
+    music:
+      Guid:
+        Data1: -11543223
+        Data2: 1150668118
+        Data3: -2062132550
+        Data4: 1319735143
+      Path: event:/BGM/1.ToyTown/1_S25
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 26
+    music:
+      Guid:
+        Data1: -867151309
+        Data2: 1164384594
+        Data3: -900970563
+        Data4: -505979495
+      Path: event:/BGM/1.ToyTown/1_S26
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 27
+    music:
+      Guid:
+        Data1: 1778896553
+        Data2: 1292622037
+        Data3: -462526277
+        Data4: 1477393118
+      Path: event:/BGM/1.ToyTown/1_S27
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 28
+    music:
+      Guid:
+        Data1: 848021040
+        Data2: 1296734636
+        Data3: -497193829
+        Data4: -90292080
+      Path: event:/BGM/1.ToyTown/1_S28
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 29
+    music:
+      Guid:
+        Data1: -1743554752
+        Data2: 1314533375
+        Data3: -1518431357
+        Data4: -753169022
+      Path: event:/BGM/1.ToyTown/1_S29
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 30
+    music:
+      Guid:
+        Data1: -752902442
+        Data2: 1106801065
+        Data3: -1935523661
+        Data4: -723944460
+      Path: event:/BGM/1.ToyTown/1_S30 BOSS

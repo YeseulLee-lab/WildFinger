@@ -1,0 +1,555 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 04212db39a3894241af522aad150aa19, type: 3}
+  m_Name: NoteGeneratorData
+  m_EditorClassIdentifier: 
+  _unitInfo:
+  - gimmickKey: 0
+    gimmickType: 0
+    appearLevel: 1
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 539b5f048991f394c8b2f8e88c7ef935, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD074\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 1
+    gimmickType: 0
+    appearLevel: 15
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 4368a61b51b064c46ad5b038b4c25aaa, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD074\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 2
+    gimmickType: 0
+    appearLevel: 21
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 1082d643c6bfbdc4e9eeb89ce7a65e2c, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD074\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 3
+    gimmickType: 0
+    appearLevel: 4
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD640\uB4DC2\uBC15"
+    isDouble: 0
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 4
+    gimmickType: 0
+    appearLevel: 4
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD640\uB4DC3\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 3
+    totalBeatCnt: 3
+  - gimmickKey: 5
+    gimmickType: 0
+    appearLevel: 4
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD640\uB4DC4\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 4
+    totalBeatCnt: 4
+  - gimmickKey: 6
+    gimmickType: 0
+    appearLevel: 8
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: a73263a9291c09d48b1bb1660b319e6a, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD50C\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 7
+    gimmickType: 0
+    appearLevel: 15
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: a73263a9291c09d48b1bb1660b319e6a, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD50C\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 8
+    gimmickType: 0
+    appearLevel: 21
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: a73263a9291c09d48b1bb1660b319e6a, type: 3}
+    gimmickName: "\uC77C\uBC18-\uD50C\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 9
+    gimmickType: 1
+    appearLevel: 12
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: c615170685a99794d802b3609994b321, type: 3}
+    gimmickName: "\uC5F0\uD0C0\uD3ED\uD0C44\uBC15"
+    isDouble: 0
+    isSameDouble: 0
+    beatCnt: 4
+    totalBeatCnt: 4
+  - gimmickKey: 10
+    gimmickType: 1
+    appearLevel: 12
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: c615170685a99794d802b3609994b321, type: 3}
+    gimmickName: "\uC5F0\uD0C0\uD3ED\uD0C48\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 8
+    totalBeatCnt: 8
+  - gimmickKey: 11
+    gimmickType: 2
+    appearLevel: 38
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 623a4690db9c3d04bbd1a2b9fabdd820, type: 3}
+    gimmickName: "\uC0E4\uC774-\uD074\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 12
+    gimmickType: 2
+    appearLevel: 48
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 6cc7d553578f8c34bb3ce168068f3bc1, type: 3}
+    gimmickName: "\uC0E4\uC774-\uD074\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 13
+    gimmickType: 2
+    appearLevel: 55
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 6cc7d553578f8c34bb3ce168068f3bc1, type: 3}
+    gimmickName: "\uC0E4\uC774-\uD074\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 14
+    gimmickType: 2
+    appearLevel: 38
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: 623a4690db9c3d04bbd1a2b9fabdd820, type: 3}
+    gimmickName: "\uC0E4\uC774-\uD50C\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 15
+    gimmickType: 0
+    appearLevel: 48
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: 6cc7d553578f8c34bb3ce168068f3bc1, type: 3}
+    gimmickName: "\uC0E4\uC774-\uD50C\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 16
+    gimmickType: 0
+    appearLevel: 55
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: 6cc7d553578f8c34bb3ce168068f3bc1, type: 3}
+    gimmickName: "\uC0E4\uC774-\uD50C\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 17
+    gimmickType: 3
+    appearLevel: 81
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 22a2a5b71616df346985e480547e2126, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uBC15\uC2A4(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 18
+    gimmickType: 3
+    appearLevel: 91
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 22a2a5b71616df346985e480547e2126, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uBC15\uC2A4(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 19
+    gimmickType: 3
+    appearLevel: 95
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 22a2a5b71616df346985e480547e2126, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uBC15\uC2A4(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 20
+    gimmickType: 4
+    appearLevel: 16
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 455f9f6c10da0c941b6f95e125a79534, type: 3}
+    gimmickName: "\uC778\uC9C8"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 21
+    gimmickType: 5
+    appearLevel: 14
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: e67d58c2469108045af7e0f695477ace, type: 3}
+    gimmickName: "\uC810\uD504-\uD074\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 22
+    gimmickType: 5
+    appearLevel: 15
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: b1a3ab235995cc543b7fe12e2a48145a, type: 3}
+    gimmickName: "\uC810\uD504-\uD074\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 23
+    gimmickType: 5
+    appearLevel: 21
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 723bfd8c8510b254d8d20d4b6001c256, type: 3}
+    gimmickName: "\uC810\uD504-\uD074\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 24
+    gimmickType: 5
+    appearLevel: 14
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    gimmickName: "\uC810\uD504-\uD640\uB4DC2\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 25
+    gimmickType: 5
+    appearLevel: 14
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    gimmickName: "\uC810\uD504-\uD640\uB4DC3\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 3
+    totalBeatCnt: 3
+  - gimmickKey: 26
+    gimmickType: 5
+    appearLevel: 14
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    gimmickName: "\uC810\uD504-\uD640\uB4DC4\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 4
+    totalBeatCnt: 4
+  - gimmickKey: 27
+    gimmickType: 5
+    appearLevel: 14
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: a73263a9291c09d48b1bb1660b319e6a, type: 3}
+    gimmickName: "\uC810\uD504-\uD50C\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 28
+    gimmickType: 5
+    appearLevel: 15
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: eaec83442c0c3ee419340878038d8741, type: 3}
+    gimmickName: "\uC810\uD504-\uD50C\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 29
+    gimmickType: 5
+    appearLevel: 21
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: eaec83442c0c3ee419340878038d8741, type: 3}
+    gimmickName: "\uC810\uD504-\uD50C\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 30
+    gimmickType: 6
+    appearLevel: 144
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 5f59fcb97c709b34990d37a0aec4018c, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD074\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 31
+    gimmickType: 6
+    appearLevel: 148
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 388f9756ffa65ad4287d6e328966e8b2, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD074\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 32
+    gimmickType: 6
+    appearLevel: 158
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 388f9756ffa65ad4287d6e328966e8b2, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD074\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 33
+    gimmickType: 6
+    appearLevel: 144
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 5f59fcb97c709b34990d37a0aec4018c, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD640\uB4DC2\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 34
+    gimmickType: 6
+    appearLevel: 144
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 5f59fcb97c709b34990d37a0aec4018c, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD640\uB4DC3\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 3
+    totalBeatCnt: 3
+  - gimmickKey: 35
+    gimmickType: 6
+    appearLevel: 144
+    actionType: 1
+    gimmickImg: {fileID: 21300000, guid: 5f59fcb97c709b34990d37a0aec4018c, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD640\uB4DC4\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 4
+    totalBeatCnt: 4
+  - gimmickKey: 36
+    gimmickType: 0
+    appearLevel: 144
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: 5f59fcb97c709b34990d37a0aec4018c, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD50C\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 37
+    gimmickType: 0
+    appearLevel: 148
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: 388f9756ffa65ad4287d6e328966e8b2, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD50C\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 38
+    gimmickType: 0
+    appearLevel: 158
+    actionType: 2
+    gimmickImg: {fileID: 21300000, guid: 388f9756ffa65ad4287d6e328966e8b2, type: 3}
+    gimmickName: "\uBCC0\uC7A5-\uD50C\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 39
+    gimmickType: 7
+    appearLevel: 207
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 592b3c74483d9c34ab09a92e40451876, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uD50C\uB9AD(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 40
+    gimmickType: 7
+    appearLevel: 211
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 592b3c74483d9c34ab09a92e40451876, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uD50C\uB9AD(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 41
+    gimmickType: 7
+    appearLevel: 215
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 592b3c74483d9c34ab09a92e40451876, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uD50C\uB9AD(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 42
+    gimmickType: 8
+    appearLevel: 267
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 6884e4d25927fa249b1469cdfe09dafc, type: 3}
+    gimmickName: "\uBE75\uBC18\uC8FD2\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 43
+    gimmickType: 8
+    appearLevel: 267
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: ff6ff514757aba84cba5210f8372dc0c, type: 3}
+    gimmickName: "\uBE75\uBC18\uC8FD3\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 3
+    totalBeatCnt: 3
+  - gimmickKey: 44
+    gimmickType: 8
+    appearLevel: 267
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: fb9192351c3cbd746a04116dd41ed7a2, type: 3}
+    gimmickName: "\uBE75\uBC18\uC8FD4\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 4
+    totalBeatCnt: 4
+  - gimmickKey: 45
+    gimmickType: 9
+    appearLevel: 321
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 6f33cbaa9314fb345a806342a77dcf75, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uD640\uB4DC(1)"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 5
+  - gimmickKey: 46
+    gimmickType: 9
+    appearLevel: 332
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 0e25b9a5eff9c1746a5d1bde1c9f949a, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uD640\uB4DC(2=)"
+    isDouble: 1
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 6
+  - gimmickKey: 47
+    gimmickType: 9
+    appearLevel: 337
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 3cb6d840c86d46242a3c19d608cf3b1d, type: 3}
+    gimmickName: "\uC2DC\uD06C\uB9BF\uD640\uB4DC(2!)"
+    isDouble: 1
+    isSameDouble: 0
+    beatCnt: 2
+    totalBeatCnt: 6
+  - gimmickKey: 48
+    gimmickType: 10
+    appearLevel: 11
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 1f9705b0c0df0594eae3b5c32dfde4d9, type: 3}
+    gimmickName: "\uC54C\uB7EC\uBDF0"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 49
+    gimmickType: 11
+    appearLevel: 381
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 08a9c2dabc124544ba3263971731c446, type: 3}
+    gimmickName: "\uB2E8\uC9DD"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 1
+  - gimmickKey: 50
+    gimmickType: 12
+    appearLevel: 13
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 7f90bde9baf79ea4894958c71efaf90d, type: 3}
+    gimmickName: "\uACF5\uC791\uC0C82\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 2
+    totalBeatCnt: 2
+  - gimmickKey: 51
+    gimmickType: 12
+    appearLevel: 13
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 7f90bde9baf79ea4894958c71efaf90d, type: 3}
+    gimmickName: "\uACF5\uC791\uC0C84\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 4
+    totalBeatCnt: 4
+  - gimmickKey: 52
+    gimmickType: 12
+    appearLevel: 13
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 7f90bde9baf79ea4894958c71efaf90d, type: 3}
+    gimmickName: "\uACF5\uC791\uC0C86\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 6
+    totalBeatCnt: 6
+  - gimmickKey: 53
+    gimmickType: 12
+    appearLevel: 13
+    actionType: 0
+    gimmickImg: {fileID: 21300000, guid: 7f90bde9baf79ea4894958c71efaf90d, type: 3}
+    gimmickName: "\uACF5\uC791\uC0C88\uBC15"
+    isDouble: 0
+    isSameDouble: 1
+    beatCnt: 8
+    totalBeatCnt: 8

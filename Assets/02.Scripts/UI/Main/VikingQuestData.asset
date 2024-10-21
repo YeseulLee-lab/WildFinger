@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a44ac7ff7a5c24a9ce70e45e34c526, type: 3}
+  m_Name: VikingQuestData
+  m_EditorClassIdentifier: 
+  _questDatas:
+  - assetName: VikingAsset_1
+    assetSprite: {fileID: 21300000, guid: b77fb81536272cd4f9709adca242676d, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: d760472a7500fd24488e14db94dce36b, type: 3}
+    unlockStage: 33
+  - assetName: VikingAsset_2
+    assetSprite: {fileID: 21300000, guid: 60a19376817b37f43be8c76803d56b6c, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 70bc34b5f2c9e5942b0af9e5650a7b05, type: 3}
+    unlockStage: 37
+  - assetName: VikingAsset_3
+    assetSprite: {fileID: 21300000, guid: fde4d7d3148b0ff4d939dbe4bda2006b, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: cd8fec961574437438e2d2c8eb666d3d, type: 3}
+    unlockStage: 42
+  - assetName: VikingAsset_4
+    assetSprite: {fileID: 21300000, guid: 1f473cf5555e56d4c81248051d93ce5f, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 7f091a837cb598e4b83ea3179137bf6c, type: 3}
+    unlockStage: 49
+  - assetName: VikingAsset_5
+    assetSprite: {fileID: 21300000, guid: 5d13c1385db968a40aa4c6d901a7b2aa, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: ba1739680cb03904caff4e09bffe4c84, type: 3}
+    unlockStage: 56
+  - assetName: VikingAsset_6
+    assetSprite: {fileID: 21300000, guid: 584dae041d557a64ab817d6149f37cba, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: e52c93f52122ba347a6b2de0fca60006, type: 3}
+    unlockStage: 64
+  - assetName: VikingAsset_7
+    assetSprite: {fileID: 21300000, guid: 798dfcd0504d09543a2891543506ee05, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 1bcfa98e6d378d6448abcd4a263e2688, type: 3}
+    unlockStage: 72
+  - assetName: LastAsset
+    assetSprite: {fileID: 21300000, guid: f9e6cef934392ba488470b2b7242a395, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 6e3f67a788757094a875a670580d222d, type: 3}
+    unlockStage: 80
+  _videoFirstFrame: {fileID: 21300000, guid: 7237b66e4ab1aa843beeb5c3a134f4ec, type: 3}
+  _videoLastFrames:
+  - {fileID: 21300000, guid: 21a9239a8c399af4f93163b75f223af5, type: 3}
+  - {fileID: 21300000, guid: a826484c260a4c144aba60bb2c00e1b1, type: 3}
+  - {fileID: 21300000, guid: fd664fab7c4064b4ab08bfb8b5b8f612, type: 3}
+  - {fileID: 21300000, guid: c77acc85d0e9bf1498ba6dc0a7739699, type: 3}
+  - {fileID: 21300000, guid: b13a48eaac4ff074184aa77ce7b7b216, type: 3}
+  - {fileID: 21300000, guid: 1a766831981ecaa4b874cdbdcf0315fa, type: 3}
+  - {fileID: 21300000, guid: 4d51cbaf00f82194f879494c0f338244, type: 3}
+  - {fileID: 21300000, guid: 1d8fb9115a2a3f74fa4a53189991a849, type: 3}
+  _videoClips:
+  - {fileID: 32900000, guid: 6df03420dcaccb2489a7e421cb67692b, type: 3}
+  - {fileID: 32900000, guid: e40412b5846ba1a43ae9b0782664656b, type: 3}
+  - {fileID: 32900000, guid: 2325776a8a8c78848a27e279c4c5c678, type: 3}
+  - {fileID: 32900000, guid: e5c2088f658724f4a90be09479a7a66f, type: 3}
+  - {fileID: 32900000, guid: a6e82522848f8a44b9110ac34dd17dd5, type: 3}
+  - {fileID: 32900000, guid: a532e44c159ece843aa7e2ee4647c002, type: 3}
+  - {fileID: 32900000, guid: 32feb076a00227a49b852090e15ccf1a, type: 3}
+  - {fileID: 32900000, guid: 50fb0c87027a1c8489e221ac6b8b4909, type: 3}
+  _isLooping: 1

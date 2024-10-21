@@ -1,0 +1,856 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac6fc07d5821bf45a0638a9476a2e88, type: 3}
+  m_Name: TMD_7JazzCafe
+  m_EditorClassIdentifier: 
+  _town: 6
+  _musicDatas:
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 321
+    music:
+      Guid:
+        Data1: 424374460
+        Data2: 1317104668
+        Data3: 579556744
+        Data4: 1269044844
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S1
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 322
+    music:
+      Guid:
+        Data1: 1536620405
+        Data2: 1135038117
+        Data3: 177751210
+        Data4: -786920719
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S2
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 323
+    music:
+      Guid:
+        Data1: 995180283
+        Data2: 1239692859
+        Data3: -1804176705
+        Data4: -1960080765
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S3
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 324
+    music:
+      Guid:
+        Data1: -134995051
+        Data2: 1315443816
+        Data3: -1053211241
+        Data4: -1843680484
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S4
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 325
+    music:
+      Guid:
+        Data1: -2067750150
+        Data2: 1295305988
+        Data3: 333219230
+        Data4: 1776343026
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S5
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 326
+    music:
+      Guid:
+        Data1: 2129667995
+        Data2: 1219139266
+        Data3: 1535711657
+        Data4: 1078202797
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S6
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 327
+    music:
+      Guid:
+        Data1: -786728529
+        Data2: 1085653301
+        Data3: 360872373
+        Data4: -1349635822
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S7
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 328
+    music:
+      Guid:
+        Data1: 1016902707
+        Data2: 1272235810
+        Data3: -969797744
+        Data4: -1690286247
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S8
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 329
+    music:
+      Guid:
+        Data1: 1724116908
+        Data2: 1222153369
+        Data3: 1886831020
+        Data4: -561898913
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S9
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 330
+    music:
+      Guid:
+        Data1: 721742538
+        Data2: 1341797320
+        Data3: 1225033623
+        Data4: -382365836
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 331
+    music:
+      Guid:
+        Data1: 144957548
+        Data2: 1253086531
+        Data3: 1634785668
+        Data4: 58121591
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S11
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 332
+    music:
+      Guid:
+        Data1: 2133368296
+        Data2: 1129049059
+        Data3: 1548701574
+        Data4: -1674748000
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S12
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 333
+    music:
+      Guid:
+        Data1: -901734366
+        Data2: 1221715503
+        Data3: -45073270
+        Data4: 1648353436
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S13
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 334
+    music:
+      Guid:
+        Data1: -622793920
+        Data2: 1265740747
+        Data3: -808351839
+        Data4: 1248674320
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S14
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 335
+    music:
+      Guid:
+        Data1: 775979659
+        Data2: 1097297432
+        Data3: 1072858255
+        Data4: -197415922
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S15
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 336
+    music:
+      Guid:
+        Data1: -113819294
+        Data2: 1206451324
+        Data3: -1851055974
+        Data4: -919362763
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S16
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 337
+    music:
+      Guid:
+        Data1: -1252361237
+        Data2: 1328215016
+        Data3: 1913840822
+        Data4: -1688644248
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S17
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 338
+    music:
+      Guid:
+        Data1: -1559610423
+        Data2: 1163472055
+        Data3: -222801753
+        Data4: -1248871993
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S18
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 339
+    music:
+      Guid:
+        Data1: 1298427727
+        Data2: 1164132815
+        Data3: 1463436981
+        Data4: -1985529333
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S19
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 340
+    music:
+      Guid:
+        Data1: 721742538
+        Data2: 1341797320
+        Data3: 1225033623
+        Data4: -382365836
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 341
+    music:
+      Guid:
+        Data1: 1646059685
+        Data2: 1318809405
+        Data3: 962932412
+        Data4: -602456978
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S21
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 342
+    music:
+      Guid:
+        Data1: -827474943
+        Data2: 1137490325
+        Data3: -1604488828
+        Data4: -440132400
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S22
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 343
+    music:
+      Guid:
+        Data1: 1828192441
+        Data2: 1174241842
+        Data3: 1178440592
+        Data4: 1644154789
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S23
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 344
+    music:
+      Guid:
+        Data1: -30585646
+        Data2: 1075256873
+        Data3: 650291612
+        Data4: -348803409
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S24
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 345
+    music:
+      Guid:
+        Data1: 2108229797
+        Data2: 1205652196
+        Data3: 1041629828
+        Data4: -2066106944
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S25
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 346
+    music:
+      Guid:
+        Data1: 996552793
+        Data2: 1323302478
+        Data3: -979069812
+        Data4: 1350927272
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S26
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 347
+    music:
+      Guid:
+        Data1: 1745627095
+        Data2: 1218532008
+        Data3: -573064523
+        Data4: -1667388430
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S27
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 348
+    music:
+      Guid:
+        Data1: -520187685
+        Data2: 1187809894
+        Data3: 1091000475
+        Data4: -728300816
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S28
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 349
+    music:
+      Guid:
+        Data1: 831713426
+        Data2: 1170684212
+        Data3: 802248863
+        Data4: -1414388138
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S29
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 350
+    music:
+      Guid:
+        Data1: 721742538
+        Data2: 1341797320
+        Data3: 1225033623
+        Data4: -382365836
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 351
+    music:
+      Guid:
+        Data1: -1005550312
+        Data2: 1332829609
+        Data3: 248819124
+        Data4: -700407211
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S31
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 352
+    music:
+      Guid:
+        Data1: 533132338
+        Data2: 1205447312
+        Data3: 727647891
+        Data4: -770718956
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S32
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 353
+    music:
+      Guid:
+        Data1: 2013266129
+        Data2: 1115776988
+        Data3: 1769201284
+        Data4: 1622474623
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S33
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 354
+    music:
+      Guid:
+        Data1: 1140363642
+        Data2: 1210662214
+        Data3: -332203611
+        Data4: -483196789
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S34
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 355
+    music:
+      Guid:
+        Data1: -337452682
+        Data2: 1324757135
+        Data3: -992610376
+        Data4: -39708779
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S35
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 356
+    music:
+      Guid:
+        Data1: -878308942
+        Data2: 1199889322
+        Data3: 1268547722
+        Data4: -436521966
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S36
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 357
+    music:
+      Guid:
+        Data1: -81684390
+        Data2: 1108298478
+        Data3: 1453118102
+        Data4: -1189137553
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S37
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 358
+    music:
+      Guid:
+        Data1: 1273980895
+        Data2: 1155059493
+        Data3: -1556478589
+        Data4: 1268396350
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S38
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 359
+    music:
+      Guid:
+        Data1: 799625392
+        Data2: 1316937971
+        Data3: 214567569
+        Data4: 371425575
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S39
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 360
+    music:
+      Guid:
+        Data1: 721742538
+        Data2: 1341797320
+        Data3: 1225033623
+        Data4: -382365836
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 361
+    music:
+      Guid:
+        Data1: -394973811
+        Data2: 1315872499
+        Data3: -1164132180
+        Data4: -238262551
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S41
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 362
+    music:
+      Guid:
+        Data1: -1397402293
+        Data2: 1307707390
+        Data3: 654214786
+        Data4: -1925631206
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S42
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 363
+    music:
+      Guid:
+        Data1: 887909907
+        Data2: 1116539902
+        Data3: -1876927060
+        Data4: -790007573
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S43
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 364
+    music:
+      Guid:
+        Data1: 1731339103
+        Data2: 1221745691
+        Data3: 1562937507
+        Data4: 117069740
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S44
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 365
+    music:
+      Guid:
+        Data1: 2048598659
+        Data2: 1200869028
+        Data3: -2121868402
+        Data4: -391866744
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S45
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 366
+    music:
+      Guid:
+        Data1: -779669843
+        Data2: 1211313334
+        Data3: -73816672
+        Data4: -656969762
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S46
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 367
+    music:
+      Guid:
+        Data1: 349694294
+        Data2: 1135848032
+        Data3: -1706423394
+        Data4: 2001749609
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S47
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 368
+    music:
+      Guid:
+        Data1: -780369419
+        Data2: 1097415189
+        Data3: -742408552
+        Data4: 620469124
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S48
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 369
+    music:
+      Guid:
+        Data1: 705593128
+        Data2: 1114511730
+        Data3: -988057946
+        Data4: 763058260
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S49
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 370
+    music:
+      Guid:
+        Data1: 721742538
+        Data2: 1341797320
+        Data3: 1225033623
+        Data4: -382365836
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 371
+    music:
+      Guid:
+        Data1: 683898099
+        Data2: 1290180519
+        Data3: 1313518253
+        Data4: -921134671
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S51
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 372
+    music:
+      Guid:
+        Data1: -484072448
+        Data2: 1292925634
+        Data3: -95516234
+        Data4: 176208676
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S52
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 373
+    music:
+      Guid:
+        Data1: -2046789646
+        Data2: 1215717989
+        Data3: 2079709366
+        Data4: -131036445
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S53
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 374
+    music:
+      Guid:
+        Data1: 527910244
+        Data2: 1227360405
+        Data3: -1498875466
+        Data4: -1737267853
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S54
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 375
+    music:
+      Guid:
+        Data1: 722095272
+        Data2: 1210417229
+        Data3: 910910853
+        Data4: 1190796969
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S55
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 376
+    music:
+      Guid:
+        Data1: -894384128
+        Data2: 1114657356
+        Data3: 704277919
+        Data4: 473262360
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S56
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 377
+    music:
+      Guid:
+        Data1: -695478007
+        Data2: 1117794082
+        Data3: 1009628325
+        Data4: 929420665
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S57
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 378
+    music:
+      Guid:
+        Data1: -1001486915
+        Data2: 1076671768
+        Data3: 810966401
+        Data4: 1587770747
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S58
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 379
+    music:
+      Guid:
+        Data1: -2124830050
+        Data2: 1304882585
+        Data3: 1241403577
+        Data4: -1647624744
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S59
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 380
+    music:
+      Guid:
+        Data1: -128552057
+        Data2: 1268886350
+        Data3: -231543121
+        Data4: 2073951253
+      Path: event:/BGM/7.Jazz Cafe and Nature/7_S60

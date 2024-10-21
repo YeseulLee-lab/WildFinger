@@ -1,0 +1,856 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ac6fc07d5821bf45a0638a9476a2e88, type: 3}
+  m_Name: TMD_5ArabianDesert
+  m_EditorClassIdentifier: 
+  _town: 4
+  _musicDatas:
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 201
+    music:
+      Guid:
+        Data1: 165311857
+        Data2: 1110291904
+        Data3: -244964693
+        Data4: 1963725438
+      Path: event:/BGM/5.Arabian Desert/5_S1
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 202
+    music:
+      Guid:
+        Data1: 833937465
+        Data2: 1132949287
+        Data3: 1962561928
+        Data4: -78457822
+      Path: event:/BGM/5.Arabian Desert/5_S2
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 203
+    music:
+      Guid:
+        Data1: -398977424
+        Data2: 1094822275
+        Data3: 799795343
+        Data4: 406489054
+      Path: event:/BGM/5.Arabian Desert/5_S3
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 204
+    music:
+      Guid:
+        Data1: 1177989963
+        Data2: 1298186942
+        Data3: -1834124377
+        Data4: -511352734
+      Path: event:/BGM/5.Arabian Desert/5_S4
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 205
+    music:
+      Guid:
+        Data1: -532764498
+        Data2: 1258314850
+        Data3: -1318240597
+        Data4: -1658465728
+      Path: event:/BGM/5.Arabian Desert/5_S5
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 206
+    music:
+      Guid:
+        Data1: -1236887390
+        Data2: 1292842343
+        Data3: -1284880459
+        Data4: 1646142502
+      Path: event:/BGM/5.Arabian Desert/5_S6
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 207
+    music:
+      Guid:
+        Data1: 1228026139
+        Data2: 1219188677
+        Data3: -2107480643
+        Data4: 759766562
+      Path: event:/BGM/5.Arabian Desert/5_S7
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 208
+    music:
+      Guid:
+        Data1: -1555222765
+        Data2: 1164954986
+        Data3: 405720509
+        Data4: -524324647
+      Path: event:/BGM/5.Arabian Desert/5_S8
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 209
+    music:
+      Guid:
+        Data1: 661732399
+        Data2: 1168095306
+        Data3: 1997125046
+        Data4: 1435017860
+      Path: event:/BGM/5.Arabian Desert/5_S9
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 210
+    music:
+      Guid:
+        Data1: 2110414438
+        Data2: 1275445970
+        Data3: -1128015190
+        Data4: -2100205603
+      Path: event:/BGM/5.Arabian Desert/5_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 211
+    music:
+      Guid:
+        Data1: -1769138874
+        Data2: 1308785655
+        Data3: -1641834319
+        Data4: 1012580212
+      Path: event:/BGM/5.Arabian Desert/5_S11
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 212
+    music:
+      Guid:
+        Data1: -491285763
+        Data2: 1175708036
+        Data3: -408226418
+        Data4: -214843881
+      Path: event:/BGM/5.Arabian Desert/5_S12
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 213
+    music:
+      Guid:
+        Data1: 937725397
+        Data2: 1155738867
+        Data3: -209553253
+        Data4: -1105521452
+      Path: event:/BGM/5.Arabian Desert/5_S13
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 214
+    music:
+      Guid:
+        Data1: 884471465
+        Data2: 1307075980
+        Data3: 1787117729
+        Data4: -430547625
+      Path: event:/BGM/5.Arabian Desert/5_S14
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 215
+    music:
+      Guid:
+        Data1: -1709383212
+        Data2: 1086931392
+        Data3: -974185548
+        Data4: -405423035
+      Path: event:/BGM/5.Arabian Desert/5_S15
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 216
+    music:
+      Guid:
+        Data1: -841511509
+        Data2: 1124768903
+        Data3: -21261143
+        Data4: -1176772892
+      Path: event:/BGM/5.Arabian Desert/5_S16
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 217
+    music:
+      Guid:
+        Data1: 1336242994
+        Data2: 1254842171
+        Data3: -1578173764
+        Data4: -1223474478
+      Path: event:/BGM/5.Arabian Desert/5_S17
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 218
+    music:
+      Guid:
+        Data1: 20141270
+        Data2: 1091102651
+        Data3: -913166971
+        Data4: -945321409
+      Path: event:/BGM/5.Arabian Desert/5_S18
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 219
+    music:
+      Guid:
+        Data1: 89481624
+        Data2: 1244039921
+        Data3: 1785259138
+        Data4: 224382957
+      Path: event:/BGM/5.Arabian Desert/5_S19
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 220
+    music:
+      Guid:
+        Data1: 2110414438
+        Data2: 1275445970
+        Data3: -1128015190
+        Data4: -2100205603
+      Path: event:/BGM/5.Arabian Desert/5_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 221
+    music:
+      Guid:
+        Data1: 541673330
+        Data2: 1149448056
+        Data3: 1766550188
+        Data4: 302189314
+      Path: event:/BGM/5.Arabian Desert/5_S21
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 222
+    music:
+      Guid:
+        Data1: -1223258857
+        Data2: 1179435253
+        Data3: -374770027
+        Data4: 31743810
+      Path: event:/BGM/5.Arabian Desert/5_S22
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 223
+    music:
+      Guid:
+        Data1: 1320230505
+        Data2: 1141365816
+        Data3: -1834628705
+        Data4: 193563644
+      Path: event:/BGM/5.Arabian Desert/5_S23
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 224
+    music:
+      Guid:
+        Data1: -1680479612
+        Data2: 1192593311
+        Data3: -1697732964
+        Data4: 1531081097
+      Path: event:/BGM/5.Arabian Desert/5_S24
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 225
+    music:
+      Guid:
+        Data1: -1854791031
+        Data2: 1107096349
+        Data3: -1517394294
+        Data4: 847156341
+      Path: event:/BGM/5.Arabian Desert/5_S25
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 226
+    music:
+      Guid:
+        Data1: 1059739097
+        Data2: 1129318375
+        Data3: 221263001
+        Data4: -302989556
+      Path: event:/BGM/5.Arabian Desert/5_S26
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 227
+    music:
+      Guid:
+        Data1: -1469316389
+        Data2: 1316639317
+        Data3: -883692921
+        Data4: 737370037
+      Path: event:/BGM/5.Arabian Desert/5_S27
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 228
+    music:
+      Guid:
+        Data1: 855582435
+        Data2: 1327281243
+        Data3: 2119162041
+        Data4: 741062274
+      Path: event:/BGM/5.Arabian Desert/5_S28
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 1
+    stage: 229
+    music:
+      Guid:
+        Data1: 1579355773
+        Data2: 1078252735
+        Data3: -1531787630
+        Data4: 1772601477
+      Path: event:/BGM/5.Arabian Desert/5_S29
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 230
+    music:
+      Guid:
+        Data1: 2110414438
+        Data2: 1275445970
+        Data3: -1128015190
+        Data4: -2100205603
+      Path: event:/BGM/5.Arabian Desert/5_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 231
+    music:
+      Guid:
+        Data1: -206814965
+        Data2: 1163156252
+        Data3: 243146910
+        Data4: -1525999059
+      Path: event:/BGM/5.Arabian Desert/5_S31
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 232
+    music:
+      Guid:
+        Data1: 156795903
+        Data2: 1338049191
+        Data3: 890563465
+        Data4: 907947086
+      Path: event:/BGM/5.Arabian Desert/5_S32
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 233
+    music:
+      Guid:
+        Data1: 649743210
+        Data2: 1340917736
+        Data3: -451206742
+        Data4: 222493256
+      Path: event:/BGM/5.Arabian Desert/5_S33
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 234
+    music:
+      Guid:
+        Data1: 1138022196
+        Data2: 1289135550
+        Data3: -241745490
+        Data4: -759357144
+      Path: event:/BGM/5.Arabian Desert/5_S34
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 235
+    music:
+      Guid:
+        Data1: -1092229900
+        Data2: 1302344657
+        Data3: 1338766741
+        Data4: -2104163440
+      Path: event:/BGM/5.Arabian Desert/5_S35
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 236
+    music:
+      Guid:
+        Data1: 1290085887
+        Data2: 1296557585
+        Data3: 1592845224
+        Data4: -964314603
+      Path: event:/BGM/5.Arabian Desert/5_S36
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 237
+    music:
+      Guid:
+        Data1: 1107862707
+        Data2: 1236045354
+        Data3: -1420495216
+        Data4: 1718402155
+      Path: event:/BGM/5.Arabian Desert/5_S37
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 238
+    music:
+      Guid:
+        Data1: 97308266
+        Data2: 1245536711
+        Data3: 1850742936
+        Data4: -843640074
+      Path: event:/BGM/5.Arabian Desert/5_S38
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 239
+    music:
+      Guid:
+        Data1: 89503400
+        Data2: 1167932896
+        Data3: 248896651
+        Data4: 670892329
+      Path: event:/BGM/5.Arabian Desert/5_S39
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 240
+    music:
+      Guid:
+        Data1: 2110414438
+        Data2: 1275445970
+        Data3: -1128015190
+        Data4: -2100205603
+      Path: event:/BGM/5.Arabian Desert/5_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 241
+    music:
+      Guid:
+        Data1: 1534853818
+        Data2: 1180937595
+        Data3: -2125974122
+        Data4: -346977225
+      Path: event:/BGM/5.Arabian Desert/5_S41
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 242
+    music:
+      Guid:
+        Data1: 283379674
+        Data2: 1160213234
+        Data3: -1568975466
+        Data4: 406377177
+      Path: event:/BGM/5.Arabian Desert/5_S42
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 243
+    music:
+      Guid:
+        Data1: -1478859334
+        Data2: 1306670150
+        Data3: 1155477411
+        Data4: 1590790868
+      Path: event:/BGM/5.Arabian Desert/5_S43
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 244
+    music:
+      Guid:
+        Data1: -1957145381
+        Data2: 1181175400
+        Data3: -2029348472
+        Data4: 788761322
+      Path: event:/BGM/5.Arabian Desert/5_S44
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 245
+    music:
+      Guid:
+        Data1: 606600349
+        Data2: 1132012743
+        Data3: 1301782958
+        Data4: 524749492
+      Path: event:/BGM/5.Arabian Desert/5_S45
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 246
+    music:
+      Guid:
+        Data1: -371321979
+        Data2: 1301632804
+        Data3: -1677549655
+        Data4: 1395962295
+      Path: event:/BGM/5.Arabian Desert/5_S46
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 247
+    music:
+      Guid:
+        Data1: -547438224
+        Data2: 1096393908
+        Data3: 878690469
+        Data4: -586894526
+      Path: event:/BGM/5.Arabian Desert/5_S47
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 248
+    music:
+      Guid:
+        Data1: 131953464
+        Data2: 1086523258
+        Data3: -154944609
+        Data4: -770285562
+      Path: event:/BGM/5.Arabian Desert/5_S48
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 249
+    music:
+      Guid:
+        Data1: -1422268532
+        Data2: 1255246619
+        Data3: -1275154801
+        Data4: 120640350
+      Path: event:/BGM/5.Arabian Desert/5_S49
+  - gameType: 1
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 5
+    stage: 250
+    music:
+      Guid:
+        Data1: 2110414438
+        Data2: 1275445970
+        Data3: -1128015190
+        Data4: -2100205603
+      Path: event:/BGM/5.Arabian Desert/5_SMG
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 251
+    music:
+      Guid:
+        Data1: -253551266
+        Data2: 1090510356
+        Data3: 1939894462
+        Data4: 1648873251
+      Path: event:/BGM/5.Arabian Desert/5_S51
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 252
+    music:
+      Guid:
+        Data1: -1596208584
+        Data2: 1260319322
+        Data3: -975822973
+        Data4: -1757206025
+      Path: event:/BGM/5.Arabian Desert/5_S52
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 253
+    music:
+      Guid:
+        Data1: 747848940
+        Data2: 1098841353
+        Data3: -1609886848
+        Data4: 1454275486
+      Path: event:/BGM/5.Arabian Desert/5_S53
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 254
+    music:
+      Guid:
+        Data1: -1708902517
+        Data2: 1240388806
+        Data3: 617391754
+        Data4: 1637644686
+      Path: event:/BGM/5.Arabian Desert/5_S54
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 255
+    music:
+      Guid:
+        Data1: -180037037
+        Data2: 1194342414
+        Data3: -305739370
+        Data4: -1881234286
+      Path: event:/BGM/5.Arabian Desert/5_S55
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 2
+    stage: 256
+    music:
+      Guid:
+        Data1: -813569715
+        Data2: 1215416324
+        Data3: -695518570
+        Data4: 2102616907
+      Path: event:/BGM/5.Arabian Desert/5_S56
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 257
+    music:
+      Guid:
+        Data1: -1756013548
+        Data2: 1115262167
+        Data3: 1846088590
+        Data4: -1214457495
+      Path: event:/BGM/5.Arabian Desert/5_S57
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 258
+    music:
+      Guid:
+        Data1: 292252703
+        Data2: 1291216498
+        Data3: -1294836833
+        Data4: 108686263
+      Path: event:/BGM/5.Arabian Desert/5_S58
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 259
+    music:
+      Guid:
+        Data1: -1105164604
+        Data2: 1161236969
+        Data3: -804367474
+        Data4: 1022088824
+      Path: event:/BGM/5.Arabian Desert/5_S59
+  - gameType: 0
+    inputStyle: 0
+    initInputActive:
+      inputs: 010101
+    noteStyle: 0
+    lineCnt: 3
+    stage: 260
+    music:
+      Guid:
+        Data1: 293778362
+        Data2: 1093182118
+        Data3: 1859238573
+        Data4: -57637063
+      Path: event:/BGM/5.Arabian Desert/5_S60 BOSS

@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a44ac7ff7a5c24a9ce70e45e34c526, type: 3}
+  m_Name: EDMTownQuestData
+  m_EditorClassIdentifier: 
+  _questDatas:
+  - assetName: EDMAsset_1
+    assetSprite: {fileID: 21300000, guid: 9cfd52b758d190e4db9fad95231a4c4b, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 2607aec8f8796a44c95a60c9a9b47705, type: 3}
+    unlockStage: 145
+  - assetName: EDMAsset_2
+    assetSprite: {fileID: 21300000, guid: a00e0ed7b5e123344bb6582b032619aa, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: e37c218df946b1a438f6f5a8fb9eda01, type: 3}
+    unlockStage: 155
+  - assetName: EDMAsset_3
+    assetSprite: {fileID: 21300000, guid: 1214bf640639d834ba2abb7f81800169, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 66bdec56e9c01914faaac41b67177510, type: 3}
+    unlockStage: 165
+  - assetName: EDMAsset_4
+    assetSprite: {fileID: 21300000, guid: 4cb6c989b046a464ba29dcfce15818fe, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 843fc43b906c06c4786cbd030062ada8, type: 3}
+    unlockStage: 172
+  - assetName: EDMAsset_5
+    assetSprite: {fileID: 21300000, guid: 514d45559c321b143a321ec3b448a2ba, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 04296fc71266ad744888ec137549909b, type: 3}
+    unlockStage: 183
+  - assetName: EDMAsset_6
+    assetSprite: {fileID: 21300000, guid: 3d9b8297276a850428234498ee214540, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 74e33aaae2b1e5949ac8aae507fcaae6, type: 3}
+    unlockStage: 188
+  - assetName: EDMAsset_7
+    assetSprite: {fileID: 21300000, guid: 59d8209d36c0c584eb9b7691cb7308a9, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 043b9f66beb2f8c43a484b59ff8c1bbd, type: 3}
+    unlockStage: 192
+  - assetName: LastAsset
+    assetSprite: {fileID: 21300000, guid: f9e6cef934392ba488470b2b7242a395, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 6e3f67a788757094a875a670580d222d, type: 3}
+    unlockStage: 200
+  _videoFirstFrame: {fileID: 21300000, guid: 90685df6c17270e46aae3e5bc2272b9d, type: 3}
+  _videoLastFrames:
+  - {fileID: 21300000, guid: 3a07acb1fa3c038428df17b58e0335bf, type: 3}
+  - {fileID: 21300000, guid: b2c48cd9358adfe46ad51eb4b3262121, type: 3}
+  - {fileID: 21300000, guid: bda57f8e6c83e2d4ead0810f9a7abe8e, type: 3}
+  - {fileID: 21300000, guid: 8e701d6f9641d6c45817678954e19490, type: 3}
+  - {fileID: 21300000, guid: c0661475a87aa8746ad9b5221c89fcf3, type: 3}
+  - {fileID: 21300000, guid: 87d81ea96ce7e564ea3e2c21ce75c023, type: 3}
+  - {fileID: 21300000, guid: 106f2f5c478a0e4439d215d43e96fdbc, type: 3}
+  - {fileID: 21300000, guid: 42d3662d7e3aeed4b85e4876ed4fc70f, type: 3}
+  _videoClips:
+  - {fileID: 32900000, guid: 64d4ea6c9800b0e4e892132324558a4a, type: 3}
+  - {fileID: 32900000, guid: 3d698cad463cf604bb9a3dbc297462d7, type: 3}
+  - {fileID: 32900000, guid: 729d08fa3f6afa043b8fbc02b7b96653, type: 3}
+  - {fileID: 32900000, guid: 5ae826f54929e8745ad91595919c9cc2, type: 3}
+  - {fileID: 32900000, guid: 675974a8d26c5ea49880cb299d1793f3, type: 3}
+  - {fileID: 32900000, guid: 5a93c1470e08e1a46a93d0b907389900, type: 3}
+  - {fileID: 32900000, guid: 4162e8da4de24f14e82353989cae4e93, type: 3}
+  - {fileID: 32900000, guid: 8f40afdc388efdb418451ce07dd33ccc, type: 3}
+  _isLooping: 1

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f83edadabe863c5448e1def329e8647e, type: 3}
+  m_Name: StoreItemData
+  m_EditorClassIdentifier: 
+  _coinStoreItems:
+  - _storeItemID: stc1000
+    _coinCnt: 1000
+  - _storeItemID: stc5000
+    _coinCnt: 5000
+  - _storeItemID: stc10000
+    _coinCnt: 10000
+  - _storeItemID: stc25000
+    _coinCnt: 25000
+  - _storeItemID: stc50000
+    _coinCnt: 50000
+  - _storeItemID: stc100000
+    _coinCnt: 100000
+  _specialStoreItems:
+  - _storeItemID: stplight
+    _coinCnt: 2000
+    isSpecialist: 1
+    _shieldCnt: 1
+    _potionCnt: 1
+    _meatCnt: 1
+  - _storeItemID: stpsavior
+    _coinCnt: 5000
+    isSpecialist: 0
+    _shieldCnt: 1
+    _potionCnt: 1
+    _meatCnt: 1
+  - _storeItemID: stp29
+    _coinCnt: 10000
+    isSpecialist: 0
+    _shieldCnt: 2
+    _potionCnt: 2
+    _meatCnt: 2
+  _specialHeartStoreItems:
+  - _storeItemID: stpguardian
+    _coinCnt: 25000
+    _shieldCnt: 4
+    _potionCnt: 4
+    _meatCnt: 4
+    _infiniteHeartTime: 6
+  - _storeItemID: stpmaster
+    _coinCnt: 50000
+    _shieldCnt: 10
+    _potionCnt: 10
+    _meatCnt: 10
+    _infiniteHeartTime: 12
+  - _storeItemID: stplegend
+    _coinCnt: 65000
+    _shieldCnt: 13
+    _potionCnt: 13
+    _meatCnt: 13
+    _infiniteHeartTime: 18

@@ -1,0 +1,225 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c984dd0c135cb8646830538c6d225f8b, type: 3}
+  m_Name: InGameTutorialPopup
+  m_EditorClassIdentifier: 
+  _tutorialPopupData:
+  - type: 0
+    town: 0
+    level: 1
+    imgs:
+    - {fileID: 21300000, guid: bae68cde94fce7c4abd9b016832afa6c, type: 3}
+    trainingImg: {fileID: 21300000, guid: e45bc6286b7402440a2cd494467d7dd4, type: 3}
+    trainingDesc: TR_Rock
+  - type: 1
+    town: 0
+    level: 2
+    imgs:
+    - {fileID: 21300000, guid: 5db32a42c2822c04aa8d96af8b5a6768, type: 3}
+    trainingImg: {fileID: 21300000, guid: 360d06b8bf4c5dc419e313ec69f1a7ff, type: 3}
+    trainingDesc: T_ScissorBtn_0
+  - type: 2
+    town: 0
+    level: 3
+    imgs:
+    - {fileID: 21300000, guid: 8c6fd017351ebdc4d9bb0af008c03ba6, type: 3}
+    trainingImg: {fileID: 21300000, guid: 539b5f048991f394c8b2f8e88c7ef935, type: 3}
+    trainingDesc: T_PaperBtn_0
+  - type: 4
+    town: 0
+    level: 4
+    imgs:
+    - {fileID: 21300000, guid: b23d41acf00d63647b3fdda04b3009ad, type: 3}
+    trainingImg: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    trainingDesc: T_Hold_0
+  - type: 6
+    town: 0
+    level: 5
+    imgs:
+    - {fileID: 21300000, guid: be65a0dae0c7f0c49a054840bac78e07, type: 3}
+    trainingImg: {fileID: 21300000, guid: 91f8c194937a8544ab569081f90e0c51, type: 3}
+    trainingDesc: T_ItemShield_0
+  - type: 7
+    town: 0
+    level: 6
+    imgs:
+    - {fileID: 21300000, guid: 3e51afc50e92c804cad7f80dbfff8fde, type: 3}
+    trainingImg: {fileID: 21300000, guid: f4bdc88c28e6a844da1b4aceba9bff99, type: 3}
+    trainingDesc: T_ItemIncreaseHP_0
+  - type: 8
+    town: 0
+    level: 7
+    imgs:
+    - {fileID: 21300000, guid: 2069d643bda15f04788dd253b5639453, type: 3}
+    trainingImg: {fileID: 21300000, guid: 23dfdd5b95b0afa40976fee87976373f, type: 3}
+    trainingDesc: T_ItemHPPotion_0
+  - type: 3
+    town: 0
+    level: 8
+    imgs:
+    - {fileID: 21300000, guid: 543103e9df903e845b52c0ef12073a9c, type: 3}
+    trainingImg: {fileID: 21300000, guid: a73263a9291c09d48b1bb1660b319e6a, type: 3}
+    trainingDesc: T_Flick_0
+  - type: 9
+    town: 0
+    level: 9
+    imgs:
+    - {fileID: 21300000, guid: 8802ec0989fc595428109bd8393887f0, type: 3}
+    trainingImg: {fileID: 21300000, guid: e67d58c2469108045af7e0f695477ace, type: 3}
+    trainingDesc: T_DrawMon_0
+  - type: 10
+    town: 0
+    level: 12
+    imgs:
+    - {fileID: 21300000, guid: c615170685a99794d802b3609994b321, type: 3}
+    trainingImg: {fileID: 21300000, guid: c615170685a99794d802b3609994b321, type: 3}
+    trainingDesc: T_HitMon_0
+  - type: 11
+    town: 0
+    level: 15
+    imgs:
+    - {fileID: 21300000, guid: b3c1d2f1178981e419c1d9eb88ac4c81, type: 3}
+    trainingImg: {fileID: 21300000, guid: 4368a61b51b064c46ad5b038b4c25aaa, type: 3}
+    trainingDesc: T_DoubleWinMon_0
+  - type: 12
+    town: 0
+    level: 21
+    imgs:
+    - {fileID: 21300000, guid: 496fe0091127142489197f861b0492c6, type: 3}
+    trainingImg: {fileID: 21300000, guid: 1082d643c6bfbdc4e9eeb89ce7a65e2c, type: 3}
+    trainingDesc: T_DoubleWinMon2_0
+  - type: 13
+    town: 1
+    level: 31
+    imgs:
+    - {fileID: 21300000, guid: 05e96c9faf21dac48b063fd3e1cd0fa2, type: 3}
+    trainingImg: {fileID: 21300000, guid: b1a3ab235995cc543b7fe12e2a48145a, type: 3}
+    trainingDesc: T_DoubleDrawMon_0
+  - type: 14
+    town: 1
+    level: 35
+    imgs:
+    - {fileID: 21300000, guid: a5746ffe05d9ba543ba3761e8726a3d1, type: 3}
+    trainingImg: {fileID: 21300000, guid: 723bfd8c8510b254d8d20d4b6001c256, type: 3}
+    trainingDesc: T_DoubleDrawMon2_0
+  - type: 15
+    town: 1
+    level: 38
+    imgs:
+    - {fileID: 21300000, guid: 37f1d6dc5cf5e4746b5a4703a4732790, type: 3}
+    trainingImg: {fileID: 21300000, guid: 623a4690db9c3d04bbd1a2b9fabdd820, type: 3}
+    trainingDesc: T_ShyMon_0
+  - type: 16
+    town: 1
+    level: 48
+    imgs:
+    - {fileID: 21300000, guid: ac4ca0f9bdcb648489046c3ad0551b06, type: 3}
+    trainingImg: {fileID: 21300000, guid: 6cc7d553578f8c34bb3ce168068f3bc1, type: 3}
+    trainingDesc: T_DoubleShyMon_0
+  - type: 17
+    town: 2
+    level: 81
+    imgs:
+    - {fileID: 21300000, guid: 55e40cf84b7ac894c80db228587cdea4, type: 3}
+    trainingImg: {fileID: 21300000, guid: 623a4690db9c3d04bbd1a2b9fabdd820, type: 3}
+    trainingDesc: T_SecretMon_0
+  - type: 18
+    town: 0
+    level: 16
+    imgs:
+    - {fileID: 21300000, guid: 461811abbc494cc469899252e894b007, type: 3}
+    trainingImg: {fileID: 21300000, guid: 461811abbc494cc469899252e894b007, type: 3}
+    trainingDesc: T_HTGMon_0
+  - type: 19
+    town: 0
+    level: 14
+    imgs:
+    - {fileID: 21300000, guid: 1af429a02951d9347a7aff4ae1ce5d36, type: 3}
+    trainingImg: {fileID: 21300000, guid: 6c7cf63dade17ce449894e5853928208, type: 3}
+    trainingDesc: T_JMPMon_0
+  - type: 20
+    town: 3
+    level: 144
+    imgs:
+    - {fileID: 21300000, guid: 8a6ff10f088aed04491d8f3d2bb81e76, type: 3}
+    trainingImg: {fileID: 21300000, guid: 5f59fcb97c709b34990d37a0aec4018c, type: 3}
+    trainingDesc: T_DSGMon_0
+  - type: 21
+    town: 3
+    level: 148
+    imgs:
+    - {fileID: 21300000, guid: ee080c74a18adbe478baf15d4edda939, type: 3}
+    trainingImg: {fileID: 21300000, guid: 388f9756ffa65ad4287d6e328966e8b2, type: 3}
+    trainingDesc: T_DoubleDSGMon_0
+  - type: 22
+    town: 4
+    level: 201
+    imgs:
+    - {fileID: 21300000, guid: 46747509405d4f645b752cb1cc7ed197, type: 3}
+    trainingImg: {fileID: 21300000, guid: 8e96e0ce2e92cf542b52cd3b6eb94d39, type: 3}
+    trainingDesc: T_LoseMon_0
+  - type: 23
+    town: 4
+    level: 207
+    imgs:
+    - {fileID: 21300000, guid: a547910b50a0cdb4d9c2f524d0cbd27f, type: 3}
+    trainingImg: {fileID: 21300000, guid: 592b3c74483d9c34ab09a92e40451876, type: 3}
+    trainingDesc: T_SCFMon_0
+  - type: 24
+    town: 5
+    level: 261
+    imgs:
+    - {fileID: 21300000, guid: 6ca6f1d167104044b8b1885d615d68ed, type: 3}
+    trainingImg: {fileID: 21300000, guid: 14e98d2306b08c64087520a953dc07fb, type: 3}
+    trainingDesc: T_DoubleLoseMon_0
+  - type: 26
+    town: 5
+    level: 267
+    imgs:
+    - {fileID: 21300000, guid: 3429aa6c142ae1b40aec762fa8148ba6, type: 3}
+    trainingImg: {fileID: 21300000, guid: 6884e4d25927fa249b1469cdfe09dafc, type: 3}
+    trainingDesc: T_BRDMon_0
+  - type: 25
+    town: 5
+    level: 272
+    imgs:
+    - {fileID: 21300000, guid: b7f66939afa890441812ea64d2fb9458, type: 3}
+    trainingImg: {fileID: 21300000, guid: 412f96dc84ed5d04babcd4ffa20671fb, type: 3}
+    trainingDesc: T_DoubleLoseMon2_0
+  - type: 27
+    town: 6
+    level: 321
+    imgs:
+    - {fileID: 21300000, guid: cb7655233b2222147b21d7f6e7e6cd68, type: 3}
+    trainingImg: {fileID: 21300000, guid: 3cb6d840c86d46242a3c19d608cf3b1d, type: 3}
+    trainingDesc: T_SCHMon_0
+  - type: 28
+    town: 0
+    level: 11
+    imgs:
+    - {fileID: 21300000, guid: b9a10809fd9b5944ba088422e666ebd1, type: 3}
+    trainingImg: {fileID: 21300000, guid: 1f9705b0c0df0594eae3b5c32dfde4d9, type: 3}
+    trainingDesc: T_ILUMon_0
+  - type: 29
+    town: 7
+    level: 381
+    imgs:
+    - {fileID: 21300000, guid: c67cf772b2ab2fd44863fec63019fbe7, type: 3}
+    trainingImg: {fileID: 21300000, guid: c67cf772b2ab2fd44863fec63019fbe7, type: 3}
+    trainingDesc: T_PALMon_0
+  - type: 30
+    town: 0
+    level: 13
+    imgs:
+    - {fileID: 21300000, guid: a3a198b8a6096944586a9d4178a0eb91, type: 3}
+    trainingImg: {fileID: 21300000, guid: a3a198b8a6096944586a9d4178a0eb91, type: 3}
+    trainingDesc: T_PCKMon_0

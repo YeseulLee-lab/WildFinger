@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9a44ac7ff7a5c24a9ce70e45e34c526, type: 3}
+  m_Name: ArabianTownQuestData
+  m_EditorClassIdentifier: 
+  _questDatas:
+  - assetName: ArabianAsset_1
+    assetSprite: {fileID: 21300000, guid: 5e7da3b6335834b4485471e2eca3c2b7, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: f75e9ee4e887ed642a4cf396ddc0f4f0, type: 3}
+    unlockStage: 205
+  - assetName: ArabianAsset_2
+    assetSprite: {fileID: 21300000, guid: 3e354d0cefe4ff548befced138b3e377, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: cccb60cabdd60574daed288248913921, type: 3}
+    unlockStage: 215
+  - assetName: ArabianAsset_3
+    assetSprite: {fileID: 21300000, guid: 55dfb2a10090b0146ad41d2d25fea22a, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: ea45de0019aad3d488b1b9186410c238, type: 3}
+    unlockStage: 225
+  - assetName: ArabianAsset_4
+    assetSprite: {fileID: 21300000, guid: 00e0456a8177c9446b8e3ecd2c2655ba, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 28e0fb71017cb7148af5593a4e6f0630, type: 3}
+    unlockStage: 232
+  - assetName: ArabianAsset_5
+    assetSprite: {fileID: 21300000, guid: db8c8dfcfdcdf2a48b4ac4cca4986096, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 4504619603a14024683a074df3e7076b, type: 3}
+    unlockStage: 243
+  - assetName: ArabianAsset_6
+    assetSprite: {fileID: 21300000, guid: f84ad36ce2710364a8c6cfc78754ff3e, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 0a858e098d28bf54497677b34941acd0, type: 3}
+    unlockStage: 248
+  - assetName: ArabianAsset_7
+    assetSprite: {fileID: 21300000, guid: 43e0b3ed04a03914a992ab31b0dbea1e, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 606f96f8e34fb4d47aa83ac3cb356c86, type: 3}
+    unlockStage: 60
+  - assetName: ArabianAsset_8
+    assetSprite: {fileID: 21300000, guid: 08d0ad4db7fc90d45b26cd32c02b25bd, type: 3}
+    lockAssetSprite: {fileID: 21300000, guid: 3fb98c937775cb746a97ccfe4900c775, type: 3}
+    unlockStage: 260
+  _videoFirstFrame: {fileID: 21300000, guid: b16cfc1600b0a824996bbf1eb67256dd, type: 3}
+  _videoLastFrames:
+  - {fileID: 21300000, guid: 541b4c9b0002cf249b2552f609fa8b40, type: 3}
+  - {fileID: 21300000, guid: d9985099b43f4ae43915d7bb40132a61, type: 3}
+  - {fileID: 21300000, guid: 16a8f37778f9fd94e9d291fc8f857f89, type: 3}
+  - {fileID: 21300000, guid: 3c8df14fa5da433438d4abd1c93fe61a, type: 3}
+  - {fileID: 21300000, guid: a9aaafe8245aa724bb01f680a74faf69, type: 3}
+  - {fileID: 21300000, guid: 9eb1bb8bdde04ec4db25b3872b3c5331, type: 3}
+  - {fileID: 21300000, guid: c7d1fa3c76406ad48aa588b0667d78a2, type: 3}
+  - {fileID: 21300000, guid: 78bc0a7f94eb47a439267cc9f7e5a1ae, type: 3}
+  _videoClips:
+  - {fileID: 32900000, guid: 94b346c12f850e746a845f0c4824c5e4, type: 3}
+  - {fileID: 32900000, guid: 1e5eb50f5c36da344a9cd863c6d07688, type: 3}
+  - {fileID: 32900000, guid: a5190012094fa984aaa1350094582036, type: 3}
+  - {fileID: 32900000, guid: a6fd6337440e95d4f8e46bd3b064fb00, type: 3}
+  - {fileID: 32900000, guid: be948b7ad64d7974f89f50c59406dfd8, type: 3}
+  - {fileID: 32900000, guid: d3e632de4b174f849bde578d0b37b5b2, type: 3}
+  - {fileID: 32900000, guid: c6774a65854af1b42bc4476d95d653d2, type: 3}
+  - {fileID: 32900000, guid: 994e16f04b8e3b94a8c101724c0cad32, type: 3}
+  _isLooping: 0

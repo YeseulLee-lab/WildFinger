@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 138f6c6d7d91b2f41a8c06189bc8ecfd, type: 3}
+  m_Name: TrainingUnitData
+  m_EditorClassIdentifier: 
+  _trainingData:
+  - tutorialType: 0
+    sprite: {fileID: 21300000, guid: e45bc6286b7402440a2cd494467d7dd4, type: 3}
+    trainingDesc: TR_Rock
+  - tutorialType: 1
+    sprite: {fileID: 21300000, guid: 360d06b8bf4c5dc419e313ec69f1a7ff, type: 3}
+    trainingDesc: T_ScissorBtn_0
+  - tutorialType: 2
+    sprite: {fileID: 21300000, guid: 539b5f048991f394c8b2f8e88c7ef935, type: 3}
+    trainingDesc: T_PaperBtn_0
+  - tutorialType: 4
+    sprite: {fileID: 21300000, guid: 85282b365253f7849873a2042ff8faba, type: 3}
+    trainingDesc: T_Hold_0
+  - tutorialType: 3
+    sprite: {fileID: 21300000, guid: a73263a9291c09d48b1bb1660b319e6a, type: 3}
+    trainingDesc: T_Flick_0
+  - tutorialType: 9
+    sprite: {fileID: 21300000, guid: 174ffaaf1e8693243b18f8ea765e3921, type: 3}
+    trainingDesc: T_DrawMon_0
+  - tutorialType: 10
+    sprite: {fileID: 21300000, guid: c615170685a99794d802b3609994b321, type: 3}
+    trainingDesc: T_HitMon_0
+  - tutorialType: 11
+    sprite: {fileID: 21300000, guid: 4368a61b51b064c46ad5b038b4c25aaa, type: 3}
+    trainingDesc: T_DoubleWinMon_0
+  - tutorialType: 12
+    sprite: {fileID: 21300000, guid: 1082d643c6bfbdc4e9eeb89ce7a65e2c, type: 3}
+    trainingDesc: T_DoubleWinMon2_0
+  - tutorialType: 13
+    sprite: {fileID: 21300000, guid: b1a3ab235995cc543b7fe12e2a48145a, type: 3}
+    trainingDesc: T_DoubleDrawMon_0
+  - tutorialType: 14
+    sprite: {fileID: 21300000, guid: 723bfd8c8510b254d8d20d4b6001c256, type: 3}
+    trainingDesc: T_DoubleDrawMon2_0
+  - tutorialType: 15
+    sprite: {fileID: 21300000, guid: e3a3f52eddd36534d8efa538d2cea303, type: 3}
+    trainingDesc: T_ShyMon_0
+  - tutorialType: 16
+    sprite: {fileID: 21300000, guid: 6cc7d553578f8c34bb3ce168068f3bc1, type: 3}
+    trainingDesc: T_DoubleShyMon_0
+  - tutorialType: 17
+    sprite: {fileID: 21300000, guid: 22a2a5b71616df346985e480547e2126, type: 3}
+    trainingDesc: T_SecretMon_0
+  - tutorialType: 18
+    sprite: {fileID: 21300000, guid: 455f9f6c10da0c941b6f95e125a79534, type: 3}
+    trainingDesc: T_HTGMon_0
+  - tutorialType: 19
+    sprite: {fileID: 21300000, guid: 6c7cf63dade17ce449894e5853928208, type: 3}
+    trainingDesc: T_JMPMon_0
+  - tutorialType: 20
+    sprite: {fileID: 21300000, guid: 5f59fcb97c709b34990d37a0aec4018c, type: 3}
+    trainingDesc: T_DSGMon_0
+  - tutorialType: 21
+    sprite: {fileID: 21300000, guid: 388f9756ffa65ad4287d6e328966e8b2, type: 3}
+    trainingDesc: T_DoubleDSGMon_0
+  - tutorialType: 22
+    sprite: {fileID: 21300000, guid: 62369dc5717f2764c8ea9a8069b0376b, type: 3}
+    trainingDesc: T_LoseMon_0
+  - tutorialType: 23
+    sprite: {fileID: 21300000, guid: 22a2a5b71616df346985e480547e2126, type: 3}
+    trainingDesc: T_SCFMon_0
+  - tutorialType: 24
+    sprite: {fileID: 21300000, guid: 14e98d2306b08c64087520a953dc07fb, type: 3}
+    trainingDesc: T_DoubleLoseMon_0
+  - tutorialType: 25
+    sprite: {fileID: 21300000, guid: 412f96dc84ed5d04babcd4ffa20671fb, type: 3}
+    trainingDesc: T_DoubleLoseMon2_0
+  - tutorialType: 26
+    sprite: {fileID: 21300000, guid: 6884e4d25927fa249b1469cdfe09dafc, type: 3}
+    trainingDesc: T_BRDMon_0
+  - tutorialType: 27
+    sprite: {fileID: 21300000, guid: 3cb6d840c86d46242a3c19d608cf3b1d, type: 3}
+    trainingDesc: T_SCHMon_0
+  - tutorialType: 28
+    sprite: {fileID: 21300000, guid: 1f9705b0c0df0594eae3b5c32dfde4d9, type: 3}
+    trainingDesc: T_ILUMon_0
+  - tutorialType: 29
+    sprite: {fileID: 21300000, guid: c67cf772b2ab2fd44863fec63019fbe7, type: 3}
+    trainingDesc: T_PALMon_0
+  - tutorialType: 30
+    sprite: {fileID: 21300000, guid: a3a198b8a6096944586a9d4178a0eb91, type: 3}
+    trainingDesc: T_PCKMon_0
